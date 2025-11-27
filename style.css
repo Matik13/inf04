@@ -1,0 +1,155 @@
+body {
+	background-color: #121212;
+	color: #eee;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+h2 {
+	text-align: center;
+}
+
+#setup {
+	max-width: 600px;
+	margin: 40px auto;
+	padding: 20px;
+	background: #1e1e1e;
+	border-radius: 12px;
+	box-shadow: 0 0 20px #000;
+	text-align: center;
+}
+
+input[type='range'] {
+	width: 100%;
+}
+
+button {
+	cursor: pointer;
+	padding: 12px 25px;
+	font-size: 1em;
+	border-radius: 8px;
+	border: none;
+	margin: 5px;
+	transition: 0.2s;
+}
+
+#retryBtn,
+#startBtn {
+	background-color: #007bff;
+	color: #fff;
+}
+
+#retryBtn:hover,
+#startBtn:hover {
+	background-color: #0056b3;
+}
+
+#finishBtn {
+	background-color: #28a745;
+	color: #fff;
+}
+
+#finishBtn:hover {
+	background-color: #1e7e34;
+}
+
+#wrongTestBtn {
+	background-color: #ffc107;
+	color: #000;
+}
+
+#wrongTestBtn:hover {
+	background-color: #e0a800;
+}
+
+#testContainer {
+	max-width: 800px;
+	margin: 20px auto;
+}
+
+.question {
+	background: #1f1f1f;
+	padding: 20px;
+	margin-bottom: 20px;
+	border-radius: 12px;
+	box-shadow: 0 0 10px #000;
+	text-align: center;
+}
+
+.question img {
+	margin-top: 15px;
+	max-width: 100%;
+	border-radius: 8px;
+}
+
+.answers button {
+	display: block;
+	margin: 8px auto;
+	width: 90%;
+	max-width: 400px;
+	padding: 12px;
+	border: none;
+	border-radius: 6px;
+	background: #2a2a2a;
+	color: #eee;
+	font-size: 1em;
+	cursor: pointer;
+	transition: 0.2s;
+}
+
+.answers button:hover {
+	background: #3a3a3a;
+}
+
+.answers button.selected {
+	background-color: #007bff;
+	color: #fff;
+}
+
+.correct {
+	background-color: #28a745 !important;
+	color: #fff;
+}
+
+.wrong {
+	background-color: #dc3545 !important;
+	color: #fff;
+}
+
+#timer {
+	position: fixed;
+	bottom: 10px;
+	left: 10px;
+	font-family: Calibri, 'Century Gothic', sans-serif;
+	font-size: 3em;
+	font-weight: bold;
+	background-color: #1f1f1f;
+	color: white;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	background-clip: text;
+	text-fill-color: transparent;
+	background-image: linear-gradient(to bottom, #ffffff, #28a745);
+	padding: 10px 20px;
+	border-radius: 12px;
+	box-shadow: 0 0 20px #000;
+	display: none;
+}
+
+#results {
+	max-width: 800px;
+	margin: 20px auto;
+	padding: 40px 0px;
+	background: #1e1e1e;
+	border-radius: 12px;
+	box-shadow: 0 0 20px #000;
+	text-align: center;
+	display: none;
+}
+
+#summary {
+	font-size: 3em;
+	font-weight: bold;
+	margin-bottom: 20px;
+}

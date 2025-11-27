@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pl">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Test INF04</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div id="setup">
+        <h1>Test teoretyczny INF.04 (beta)</h1>
+        <h2>Opcje testu</h2>
+        <label>Ilość pytań: <span id="questionCountLabel">40</span></label>
+        <input type="range" id="questionCount" min="1" max="417" value="40"><br><br>
+
+        <label><input type="checkbox" id="showImmediately"> Pokaż czy dobrze od razu</label><br>
+        <label><input type="checkbox" id="enableTimer"> Stoper</label><br><br>
+
+        <button id="startBtn">Rozpocznij test</button>
+    </div>
+
+    <div id="testContainer">
+        <div id="questions"></div>
+        <button id="finishBtn">Zakończ test</button>
+    </div>
+
+    <div id="results">
+        <p id="summary"></p>
+        <p id="timeInfo"></p>
+        <button id="retryBtn">Od nowa</button>
+        <button id="wrongTestBtn">Popraw błędne</button>
+    </div>
+
+    <div id="timer">00:00.000</div>
+
+    <script src="main.js"></script>
+</body>
+
+</html>

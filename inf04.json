@@ -1,0 +1,3554 @@
+[
+	{
+		"question": "Przedstawiony zapis w języku C# oznacza definicję klasy Car, która:",
+		"answers": [
+			"jest klasą bazową (nie dziedziczy po żadnej klasie)",
+			"jest zaprzyjaźniona z klasą Vehicle",
+			"dziedziczy po Vehicle",
+			"korzysta z pól prywatnych klasy Vehicle"
+		],
+		"correct": 2,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/1.jpg"
+	},
+	{
+		"question": "Mechanizm obietnic (ang. promises) w języku JavaScript ma na celu",
+		"answers": [
+			"zastąpić mechanizm dziedziczenia w programowaniu obiektowym.",
+			"obsłużyć przechwytywanie błędów aplikacji.",
+			"poprawić czytelność kodu synchronicznego.",
+			"obsłużyć funkcjonalność związaną z kodem asynchronicznym."
+		],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "Zapisane w kodzie szesnastkowym składowe RGB koloru #AA41FF po przekształceniu do kodu dziesiętnego wynoszą kolejno",
+		"answers": ["160, 64, 255", "160, 65, 255", "170, 64, 255", "170, 65, 255"],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "Oznaczeniem komentarza jednoliniowego w języku Python jest:",
+		"answers": ["#", "!", "\"\"", "//"],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Aplikacje Web wykonane we frameworku Angular lub bibliotece React i działające na domyślnych ustawieniach portów można uruchomić na lokalnym serwerze, wpisując w przeglądarce",
+		"answers": [
+			"localhost:8000 (React) lub localhost:49887 (Angular)",
+			"localhost:8080 (React) lub localhost:8000 (Angular)",
+			"localhost:3000 (React) lub localhost:4200 (Angular)",
+			"localhost:5001 (React) lub localhost:8080 (Angular)"
+		],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Co można powiedzieć o metodach klasy Point?",
+		"answers": [
+			"Są przeładowane (przeciążone).",
+			"Zawierają błąd, gdyż nazwy metod muszą się różnić.",
+			"Zawierają przeładowanie (przeciążenie) operatora.",
+			"Pełnią funkcję konstruktorów w zależności od liczby parametrów."
+		],
+		"correct": 0,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/6.jpg"
+	},
+	{
+		"question": "Aby zaprojektować zestaw danych do zainicjowania algorytmu sortowania bąbelkowego tablicy, należy zastosować przynajmniej typy:",
+		"answers": [
+			"jeden tablicowy, dwa liczbowe do kontroli pętli, jeden do zamiany elementów miejscami",
+			"jeden tablicowy, jeden liczbowy do kontroli pętli, dwa do zamiany elementów miejscami",
+			"dwa tablicowe, jeden liczbowy do kontroli pętli",
+			"dwa tablicowe, dwa do zamiany elementów miejscami"
+		],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Utworzenie procedury składowej o nazwie dodajUsera w MS SQL rozpoczyna się od poleceń",
+		"answers": [
+			"add dodajUsera procedure",
+			"create procedure dodajUsera",
+			"create dodajUsera procedure",
+			"add procedure dodajUsera"
+		],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Okna dialogowe niemodalne służą do",
+		"answers": [
+			"kontrolowania stanu aplikacji poprzez systemy menu.",
+			"blokowania działania aplikacji na czas wprowadzenia i zatwierdzenia danych.",
+			"kontrolowania ustawień aplikacji, jako okno pozostające otwarte na ekranie przez cały czas trwania aplikacji.",
+			"wyświetlania komunikatów z koniecznością ich potwierdzenia, aby dalej kontynuować działanie aplikacji."
+		],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Na podstawie opisu umieszczonego w ramce, wskaż który rysunek przedstawia element odpowiadający klasie Badge zdefiniowanej w bibliotece Bootstrap:",
+		"answers": ["A", "B", "C", "D"],
+		"correct": 1,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/10.jpg"
+	},
+	{
+		"question": "Rekomendacje standardu WCAG 2.0 związane z percepcją dotyczą:",
+		"answers": [
+			"przedstawienia komponentów interfejsu użytkownika",
+			"zapewnienia wystarczającej ilości czasu na przeczytanie i przetworzenie treści",
+			"zapewnienia interakcji pomiędzy komponentami użytkownika przy użyciu klawiatury",
+			"zrozumienia i rzetelności w dostarczonych treściach na stronie"
+		],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Przedstawione oznaczenie praw Creative Commons, pozwala na darmowe korzystanie z utworu:",
+		"answers": [
+			"pod warunkiem pozostawienia go w oryginalnej postaci",
+			"w celu zmiany lub remiksowania",
+			"w celach komercyjnych",
+			"pod warunkiem udostępnienia go na tej samej licencji"
+		],
+		"correct": 1,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/12.jpg"
+	},
+	{
+		"question": "W metodach klasy GoldCustomer są widoczne jedynie pola",
+		"answers": ["GoldPoints, Name, Id, Age", "GoldPoints, Name", "GoldPoints, Name, Id", "GoldPoints"],
+		"correct": 2,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/13.jpg"
+	},
+	{
+		"question": "Przedstawiony kod XAML zostanie wyrenderowany jako:",
+		"answers": ["A", "B", "C", "D"],
+		"correct": 3,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/14.jpg"
+	},
+	{
+		"question": "Rezultatem wykonania przedstawionego fragmentu kodu jest wypisanie liczb z przedziału od 2 do 20, które są",
+		"answers": [
+			"podzielne przez wartość zmiennej test.",
+			"parzyste.",
+			"pierwsze.",
+			"podzielne przez wartość zmiennej check."
+		],
+		"correct": 2,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/15.jpg"
+	},
+	{
+		"question": "Przedstawiony fragment kodu w języku Java wypełnia tablicę wartościami:",
+		"answers": [
+			"1, 2, 3, 4, 5, 6, 7, 8, 9, 10",
+			"0, 1, 2, 3, 4, 5, 6, 7, 8, 9",
+			"2, 2, 2, 2, 2, 2, 2, 2, 2, 2",
+			"2, 4, 6, 8, 10, 12, 14, 16, 18, 20"
+		],
+		"correct": 3,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/16.jpg"
+	},
+	{
+		"question": "Metoda poszukiwań w tablicach posortowanych, która polega na podzieleniu tablicy na kilka bloków i wyszukaniu liniowym tylko w tym bloku, w którym docelowy element może się znajdować, w języku angielskim nosi nazwę",
+		"answers": ["Exponential search.", "Ternary search.", "Binary search.", "Jump search."],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "Na przedstawionych funkcjonalnie równoważnych sobie kodach źródłowych w wyniku wykonania operacji w zmiennej b zostanie zapisana wartość:",
+		"answers": ["5", "6", "596", "5.96"],
+		"correct": 0,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/18.jpg"
+	},
+	{
+		"question": "Oprogramowaniem do śledzenia błędów oraz do zarządzania projektami jest:",
+		"answers": ["Bugzilla", "Jasmine", "Git", "Jira"],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "Aby utworzyć aplikację mobilną typu cross-platform w języku C# można zastosować:",
+		"answers": ["platformę Xamarin", "środowisko XCode", "środowisko Android Studio", "platformę React Native"],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Która struktura danych może być zaimplementowana przy wykorzystaniu jedynie wymienionych metod?",
+		"answers": ["tablica.", "stos.", "kolejka FIFO.", "drzewo binarne."],
+		"correct": 1,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/21.jpg"
+	},
+	{
+		"question": "Obiektowe podejście do rozwiązywania problemów obejmuje między innymi:",
+		"answers": [
+			"klasy, obiekty i hermetyzację",
+			"pola, metody, rekurencję i kwerendy",
+			"wyzwalacze i polimorfizm",
+			"zmienne, procedury i funkcje"
+		],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Przedstawiona metoda jest implementacją algorytmu",
+		"answers": [
+			"sortującego napis od znaku o najniższym kodzie ASCII do znaku o najwyższym kodzie.",
+			"sprawdzającego czy napis jest palindromem.",
+			"wyszukującego znak w napisie.",
+			"odwracającego napis."
+		],
+		"correct": 3,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/23.jpg"
+	},
+	{
+		"question": "Przedstawiony cytat jest opisem metodyki RAD. Rozwinięcie tego skrótu można przetłumaczyć na język polski jako:",
+		"answers": [
+			"szybki rozwój aplikacji",
+			"środowisko szybkiego programowania",
+			"środowisko rozwijania aplikacji",
+			"zintegrowane środowisko programistyczne"
+		],
+		"correct": 0,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/25.jpg"
+	},
+	{
+		"question": "Cechami dobrego negocjatora są:",
+		"answers": [
+			"intuicja, cierpliwość, asertywność",
+			"asertywność, pesymizm, buta",
+			"dobra reputacja, przekora, porywczość",
+			"lojalność, nieśmiałość, uczciwość"
+		],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Przedstawiony wykres obrazuje wyniki testów:",
+		"answers": ["użyteczności", "funkcjonalności", "wydajnościowych", "bezpieczeństwa"],
+		"correct": 2,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/27.jpg"
+	},
+	{
+		"question": "W środowisku IDE do tworzenia aplikacji okienkowych utworzono okno Form1. Aby zmienić ustawienia, kolejno: nazwa okna widoczna na górnej belce, domyślny kursor na strzałkę oraz kolor tła okna, należy zmodyfikować następujące pola okna Properties:",
+		"answers": [
+			"Text, UseWaitCursor, BackColor.",
+			"(Name), UseWaitCursor, BackgroundImage.",
+			"Text, Cursor, BackColor.",
+			"(Name), Cursor, BackgroundImage."
+		],
+		"correct": 2,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/28.jpg"
+	},
+	{
+		"question": "Zastosowanie typu DECIMAL języka SQL wymaga wcześniejszego zdefiniowania długości (liczby cyfr) przed przecinkiem oraz długości cyfr po przecinku. Jest to zapis:",
+		"answers": ["logiczny", "łańcuchowy", "stałoprzecinkowy", "zmiennoprzecinkowy"],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Przedstawiony algorytm może być zaimplementowany w języku Java w oparciu o instrukcję:",
+		"answers": ["while", "try", "switch", "if"],
+		"correct": 0,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/30.jpg"
+	},
+	{
+		"question": "Przedstawione równoważne funkcjonalnie fragmenty kodu w bibliotece React.js oraz we frameworku Angular mają za zadanie wyświetlić",
+		"answers": [
+			"jedynie przycisk i obsłużyć generowane nim zdarzenie click.",
+			"liczbę kliknięć przycisku.",
+			"liczbę 0 po przyciśnięciu przycisku.",
+			"jedynie napis BTN_1."
+		],
+		"correct": 1,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/31.jpg"
+	},
+	{
+		"question": "Dane z serwera do aplikacji front-end można przesłać za pomocą:",
+		"answers": ["metody POST", "protokołu SSH", "formatu JSON", "biblioteki jQuery"],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Programista może zastosować framework Angular w celu implementacji aplikacji:",
+		"answers": ["mobilnej", "desktopowej", "typu front-end", "typu back-end"],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Przedstawiony fragment kodu z Android Studio implementuje metodę nasłuchującą do obsługi zdarzenia:",
+		"answers": ["wybrania daty", "wciśnięcia przycisku", "zmiany pola edycyjnego", "przełączenia kontrolki Switch"],
+		"correct": 1,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/34.jpg"
+	},
+	{
+		"question": "Poszkodowanego należy ułożyć w pozycji bocznej bezpiecznej w przypadku:",
+		"answers": [
+			"omdlenia, gdy osoba oddycha",
+			"omdlenia i braku tętna",
+			"urazu pleców, gdy osoba jest przytomna",
+			"uszkodzenia kręgosłupa"
+		],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Na dwóch przykładach przedstawiono mechanizm o nazwie Binding. Ma on na celu",
+		"answers": [
+			"obsługiwanie zdarzenia kontrolek interfejsu użytkownika wywołując odpowiednie funkcje.",
+			"wiązanie i eksportowanie plików z różnych modułów aplikacji.",
+			"obsługiwanie mechanizmu obietnic (promises) lub obserwatora (observable) w programowaniu asynchronicznym.",
+			"wiązanie właściwości (property) elementu interfejsu użytkownika z danymi bądź właściwością innego obiektu."
+		],
+		"correct": 3,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/36.jpg"
+	},
+	{
+		"question": "Przedstawiony diagram Gantta dotyczy projektu informatycznego. Zakładając, że każdy członek zespołu ma wystarczające umiejętności, aby wykonać każde z zadań oraz do każdego z zadań można przydzielić tylko jedną osobę, która poświęca na zadanie cały dzień pracy, to minimalnie zespół musi liczyć:",
+		"answers": ["5 osób", "4 osoby", "1 osobę", "2 osoby"],
+		"correct": 3,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/37.jpg"
+	},
+	{
+		"question": "Jednym z etapów publikacji mobilnej w sklepie Google Play są testy Beta, których cechą charakterystyczną jest to, że są one:",
+		"answers": [
+			"podzielone na testy funkcjonalne, wydajnościowe i skalowalności",
+			"przeprowadzane w oparciu o dokument z przypadkami testowymi",
+			"wykonane przez grupę docelowych użytkowników aplikacji",
+			"wykonywane przez grupę zatrudnionych testerów z firmy Google"
+		],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Kolor Pale Green w systemie RGB ma postać RGB(152, 251, 152). Kod szesnastkowy tego koloru wynosi:",
+		"answers": ["98 FE 98", "98 FB 98", "A0 FB A0", "A0 FE A0"],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Modyfikator dostępu poprzedzający definicję metody Dodaj() zdefiniowanej w klasie Kalkulator powoduje, że:",
+		"answers": [
+			"jest ona dostępna w programie głównym i może być wywołana na rzecz instancji klasy Kalkulator",
+			"nie jest ona dostępna z poziomu klas, które są zaprzyjaźnione z klasą Kalkulator",
+			"nie jest ona dostępna w klasach dziedziczących po klasie Kalkulator",
+			"jest ona dostępna wewnątrz klasy oraz wewnątrz klas dziedziczących po klasie Kalkulator"
+		],
+		"correct": 3,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/40.jpg"
+	},
+	{
+		"question": "Środowiskiem natywnym do programowania aplikacji desktopowych za pomocą języka C# jest:",
+		"answers": ["MS Visual Studio", "NetBeans", "Eclipse", "PyCharm"],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "W którym modelu Cyklu Życia Projektu Informatycznego występuje etap analizy ryzyka?",
+		"answers": ["W spiralnym.", "W kaskadowym.", "W modelu Fry’ego", "W modelu z prototypem."],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Na obrazie przedstawiono fragment emulacji iOS z kontrolką. Który kod XAML opisuje tę kontrolkę?",
+		"answers": [
+			"< Stepper Increment= \"1\" / >",
+			"< Stepper Increment= \"1\" / >",
+			"< Switch IsToggled= \"true\" / >",
+			"< Entry IsPassword= \"true\" / >"
+		],
+		"correct": 2,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/43.jpg"
+	},
+	{
+		"question": "Który z wymienionych algorytmów działających na tablicy jednowymiarowej ma złożoność obliczeniową O(n2)?",
+		"answers": ["Wyszukiwanie binarne.", "Wypisanie elementów.", "Sortowanie bąbelkowe.", "Sortowanie szybkie."],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Stosowanie wzorca Obserwator w programowaniu aplikacji WEB ma na celu:",
+		"answers": [
+			"obsługę funkcji synchronicznych w kodzie aplikacji",
+			"powiadamianie obiektów o zmianie stanu innych obiektów",
+			"obserwowanie interakcji użytkownika i wysyłanie wyjątków",
+			"dopasowanie interfejsu użytkownika do różnych typów użytkowników"
+		],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Pierwotnym przeznaczeniem środowisk IDE o nazwach: IntelliJ IDEA, Eclipse, NetBeans jest programowania w języku:",
+		"answers": ["C#", "C++", "Python", "Java"],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "Która z cech przycisków typu Radio-button wyspecyfikowanych w prezentowanym fragmencie dokumentacji jest prawdziwa?",
+		"answers": [
+			"Etykieta (label) może być umieszczona tylko po przycisku radio-button.",
+			"Przyciski radio-button są grupowane w elemencie o nazwie <radio-group>.",
+			"Właściwość labelPosition przyjmuje jedną z dwóch wartości.",
+			"Właściwość value radio grupy przechowuje tekst podpisu dla każdego radio-button."
+		],
+		"correct": 2,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/47.jpg"
+	},
+	{
+		"question": "Którą nazwę kontrolki należy zapisać w pierwszej linii kodu, w miejscu <??? aby została ona wyrenderowana w przedstawiony sposób:",
+		"answers": ["SeekBar", "Switch", "Spinner", "RatingBar"],
+		"correct": 1,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/48.jpg"
+	},
+	{
+		"question": "W przedstawionym kodzie zdefiniowano abstrakcyjną klasę figura i dziedziczącą po niej klasę prostokąta ze zdefiniowanymi polami i konstruktorami. Wskaż minimalną implementację sekcji /* metody klasy */ dla klasy Prostokat:",
+		"answers": ["A", "B", "C", "D"],
+		"correct": 0,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/49.jpg"
+	},
+	{
+		"question": "Obsługę wyjątku, który wygenerowała aplikacja należy zdefiniować w sekcji",
+		"answers": ["catch", "try", "throw", "finally"],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "W języku C# szablon List implementuje funkcjonalność listy. Z inicjalizacji obiektu wykaz wynika, że jego elementami są:",
+		"answers": ["liczby całkowite", "liczby rzeczywiste", "elementy typu List", "elementy o niezdefiniowanym typie"],
+		"correct": 0,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/51.jpg"
+	},
+	{
+		"question": "Która metodyka zarządzania projektem jest optymalna, gdy zakres projektu w początkowej fazie nie jest do końca znany, wymagania mogą ulec zmianie w trakcie trwania projektu oraz mogą pojawić się nowe wymagania?",
+		"answers": ["Model kaskadowy", "Model V", "Agile", "PRINCE2"],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Aplikacja mobilna wyświetla listę, której każdy z elementów może być dotknięty palcem, aby wyświetlić jego szczegóły. Zdarzenie odpowiadające tej akcji to",
+		"answers": ["value changed.", "button clicked.", "tapped.", "toggled."],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Założenie programowania obiektowego polegające na ukrywaniu składowych klasy tak, aby były one dostępne tylko metodom tej klasy lub funkcjom zaprzyjaźnionym, to",
+		"answers": ["dziedziczenie.", "wyjątki.", "polimorfizm.", "hermetyzacja."],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "Które zdarzenie jest wygenerowane, gdy nieaktywne okno lub kontrolka zostaje kliknięta myszą?",
+		"answers": ["blur.", "keyup.", "validating.", "focus."],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "Przedstawiony fragment programu w języku C# generuje hasło. Wskaż zdanie PRAWDZIWE określające własność tego hasła:",
+		"answers": [
+			"Może zawierać małe i wielkie litery, cyfry oraz symbole.",
+			"Może zawierać małe i wielkie litery oraz cyfry.",
+			"Jest co najwyżej 7-znakowe, co wyznacza zmienna i.",
+			"Jest 8 znakowe lub dłuższe oraz zawiera małe i wielkie litery oraz cyfry."
+		],
+		"correct": 1,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/56.jpg"
+	},
+	{
+		"question": "Przedstawiony zapis w języku Python prezentuje:",
+		"answers": ["strukturę", "kolejkę (LIFO)", "stos", "tablicę asocjacyjną (słownik)"],
+		"correct": 3,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/57.jpg"
+	},
+	{
+		"question": "Strategia budowania algorytmu poprzez podział na dwa lub więcej mniejszych podproblemów tak długo, aż fragmentu staną się proste do bezpośredniego rozwiązania jest metodą:",
+		"answers": ["heurystyczną", "komiwojażera", "dziel i zwyciężaj", "najkrótszej ścieżki"],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Z tabeli przedstawiającej złożoność obliczeniową algorytmów sortowania na dowolnym, dużym, zbiorze wejściowym (ponad 100 elementów) wynika, że najszybszą metodą jest algorytm sortowania:",
+		"answers": ["przez scalanie", "bąbelkowego", "przez zliczanie", "kubełkowego"],
+		"correct": 2,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/59.jpg"
+	},
+	{
+		"question": "Zadaniem interpretera jest:",
+		"answers": [
+			"analizowanie składni całego programu przed jego uruchomieniem",
+			"wykonanie skryptu instrukcja po instrukcji",
+			"optymalizowanie większej części kodu, w celu szybszego wykonania",
+			"przetłumaczenie kodu na kod maszynowy"
+		],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "W tabeli przedstawiono doświadczenie zawodowe pracowników firmy IT. Do zbudowania aplikacji front-end powinien/powinna zostać przydzielony/przydzielona:",
+		"answers": ["Ewa", "Anna", "Patryk", "Krzysztof"],
+		"correct": 3,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/61.jpg"
+	},
+	{
+		"question": "W przedstawionym fragmencie kodu Java wskaż nazwę zmiennej, która będzie w stanie przechowywać wartość 'T'",
+		"answers": ["zm1", "zm2", "zm4", "zm3"],
+		"correct": 3,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/62.jpg"
+	},
+	{
+		"question": "Przedstawione w filmie działania wykorzystują narzędzie",
+		"answers": [
+			"debugera analizującego wykonywany kod",
+			"kreatora kodu java",
+			"kreatora GUI tłumaczącego kod do języka XAML",
+			"kompilatora interfejsu graficznego"
+		],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Reguła zaangażowania i konsekwencji jako jedna z reguł wywierania wpływu wiąże się",
+		"answers": [
+			"z odwdzięczeniem się osobie, która wyświadczyła nam przysługę",
+			"z sugerowaniem się opinią danej społeczności",
+			"z doprowadzeniem spraw do końca",
+			"z posłuszeństwem wobec autorytetów"
+		],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "W językach C++ lub C# słowo kluczowe virtual można stosować do",
+		"answers": ["pól klasy", "konstruktorów", "metod klasy", "funkcji zaprzyjaźnionych"],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Narzędziem dedykowanym do implementacji aplikacji w środowisku WPf (ang. Windows Presentation Foundation) jest",
+		"answers": ["Visual Studio", "NetBeans", "PyCharm", "XamarinStudio"],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Przedstawiony symbol przedstawia",
+		"answers": ["Creative Commons", "domenę publiczną", "prawa autorskie", "prawo cytatu"],
+		"correct": 1,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/67.jpg"
+	},
+	{
+		"question": "Zastosowanie modyfikatora abstract w definicji metody klasy oznacza, że",
+		"answers": [
+			"w klasie tej należy zaimplementować tę metodę",
+			"nie można dziedziczyć po tej klasie",
+			"w klasach dziedziczących nie wolno implementować tej metody",
+			"klasa ta jest bazowa dla innych klas"
+		],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "Wskaż rodzaj testów, które przeprowadza się podczas fazy tworzenia kodu źródłowego",
+		"answers": ["testy wydajnościowe", "testy kompatybilności", "testy wdrożeniowe", "testy jednostkowe"],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "Jedną z wytycznych standardu WCAG 2.0 jest",
+		"answers": [
+			"unikanie zapisu informacji w formie uproszczonej",
+			"zmniejszanie zawartości strony poprzez zaniechanie stosowania alternatyw tekstowych dla obrazów i video",
+			"stosowanie kilku schematów kolorystycznych, w tym bardzo kontrastowego",
+			"stosowanie jednego, odpowiednio dużego rozmiaru czcionki"
+		],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Wskaż niestabilny algorytm sortowania",
+		"answers": [
+			"sortowanie bąbelkowe",
+			"sortowanie przez wstawianie",
+			"sortowanie szybkie",
+			"sortowanie przez zliczanie"
+		],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Przedstawiona deklaracja zmiennych zapisanych językiem JAVA obejmuje",
+		"answers": [
+			"dwie zmienne typu napisowego, dwie typu całkowitego i jedną logiczną",
+			"dwie zmienne typu strukturalnego",
+			"jedną zmienną typu napisowego, dwie typu całkowitego, jedną znakowego i jedną logiczną",
+			"jedną zmienną typu napisowego, jedną typu rzeczywistego, jedną całkowitego, jedną znakowego i jedną logiczną"
+		],
+		"correct": 2,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/72.jpg"
+	},
+	{
+		"question": "Z przedstawionej definicji pola licznik można wywnioskować, że",
+		"answers": [
+			"aktualna wartość pola jest wspólna dla wszystkich instancji klasy i nie może być modyfikowana",
+			"aktualna wartość pola jest wspólna dla wszystkich instancji klasy",
+			"pole jest powiązane z daną instancją klasy i jego wartość jest charakterystyczna tylko dla tej instancji",
+			"pole nie może być modyfikowane w kodzie klasy"
+		],
+		"correct": 1,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/73.jpg"
+	},
+	{
+		"question": "Aby w aplikacji Web zaimplementować mechanizm gromadzenia na komputerach użytkowników danych statystycznych, można zastosować",
+		"answers": ["buforowanie", "ciasteczka", "sesje", "formularze"],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Zakładając, że przedstawiona hierarchia klas reprezentuje figury geometryczne została prawidłowo zaimplementowana funkcjonalnie, a każda z możliwych figur zawiera metodę liczenia pola, to sposób deklaracji metody liczPole() wskazuje, że znajduje się ona w klasie",
+		"answers": ["figura", "trapez", "czworokąt", "trójkąt"],
+		"correct": 0,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/75.jpg"
+	},
+	{
+		"question": "Z przedstawionego fragmentu kodu można wywnioskować, że element o nazwie rysunek jest",
+		"answers": ["konstruktorem", "polem klasy", "metodą klasy", "obiektem"],
+		"correct": 2,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/76.jpg"
+	},
+	{
+		"question": "W aplikacji desktopowej zdefiniowano listę rozwijaną i przypisano cztery funkcje obsługujące zdarzenia tej kontrolki. Który komunikat zostanie wyświetlony w momencie wyboru w liście?",
+		"answers": ["Zdarzenie 3", "Zdarzenie 4", "Zdarzenie 1", "Zdarzenie 2"],
+		"correct": 2,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/77.jpg"
+	},
+	{
+		"question": "Programista chce dobrać najszybciej działający algorytm przetwarzania danych w swojej aplikacji. Na podstawie przedstawionej w tabeli złożoności obliczeniowej, należy wybrać algorytm numer",
+		"answers": ["2 lub 3", "3", "4", "1 lub 5"],
+		"correct": 2,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/78.jpg"
+	},
+	{
+		"question": "Frameworkiem umożliwiającym programowanie aplikacji desktopowych jest",
+		"answers": ["WPF", "Symfony", "Xamarin", "Angular"],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Którą strukturę danych reprezentuje przedstawiony kod zapisany w języku C#?",
+		"answers": ["tablicę jednowymiarową", "tablicę dwuwymiarową", "stos", "listę"],
+		"correct": 1,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/80.jpg"
+	},
+	{
+		"question": "Przedstawiony listing zawiera pola pewnej klasy. Które pole (pola) są dostępne z poziomu programu głównego poprzez wywołanie postaci nazwaObiektu.nazwaPola?",
+		"answers": ["p1", "p3 i p4", "tylko p3", "tylko p3, p4, p5"],
+		"correct": 2,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/81.jpg"
+	},
+	{
+		"question": "Z której kolekcji należy skorzystać, aby przechowywać dane związane z elementem interfejsu użytkownika tak, aby element był ten informowany przez kolekcję o dodaniu, usunięciu lub zmianie jej elementu",
+		"answers": ["ObservableCollection", "KeyedCollection", "Collection", "ReadOnlyCollection"],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Na funkcjonalnie równoważnych sobie listingach fragmentów aplikacji Angular i React.js jest utworzona lista punktowana, która zawiera",
+		"answers": [
+			"tyle elementów, ile jest elementów w tablicy books, w każdym punkcie listy jest jeden element tablicy",
+			"tyle elementów, ile jest elementów w tablicy books, w każdym punkcie listy jest element o treści {book}",
+			"tylko jeden element o treści Harry Potter, Hobbit, Władca pierścieni",
+			"tylko jeden element o treści Harry Potter"
+		],
+		"correct": 0,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/83.jpg"
+	},
+	{
+		"question": "W środowisku do tworzenia aplikacji, którego menu zostało przedstawione, aby usunąć wszystkie pliki pośrednie i wyjściowe projektu należy wybrać opcję",
+		"answers": ["Run Code Analysis on Solution", "Batch Build", "Build Solution", "Clean Solution"],
+		"correct": 3,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/84.jpg"
+	},
+	{
+		"question": "Pierwszym etapem tworzenia aplikacji jest",
+		"answers": [
+			"utworzenie przypadków testowych",
+			"projekt architektury systemu",
+			"dobór zestawu typów i zmiennych dla aplikacji",
+			"analiza wymagań klienta"
+		],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "Według dokumentacji menu Navbar z biblioteki Bootstrap 4, aby utworzyć menu należy zdefiniować listę",
+		"answers": [
+			"< ul class=\"a, .nav-item\" > ... < /ul>",
+			"< ol class=\"navbar-nav\" > ... < /ol>",
+			"< ol class=\"a, .nav-item\" > ... < /ol>",
+			"< ul class=\"navbar-nav\" > ... < /ul>"
+		],
+		"correct": 3,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/86.jpg"
+	},
+	{
+		"question": "W przedstawionym filmie ukazano kreator interfejsu użytkownika, dla którego automatycznie powstaje",
+		"answers": ["kod Java", "obsługa wciśniętego przycisku", "kod XML", "obsługa przycisku ekranu dotykowego"],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Dziedziczenie jest stosowane, gdy istnieje potrzeba",
+		"answers": [
+			"asynchronicznej obsługi długotrwałych operacji",
+			"definicji klasy bardziej specjalistycznej niż już zdefiniowana",
+			"stosowania wartości stałych, niezmiennych przez czas trwania aplikacji",
+			"zdefiniowania zakresu widzialności metod i pól jednej klasy"
+		],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Wskaż frazę, która w języku angielskim oznacza \"testy wydajnościowe\"",
+		"answers": ["unit testing", "performance testing", "integration testing", "security testing"],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Kod w języku JavaScript jest",
+		"answers": [
+			"prototypem metody klasy",
+			"definicją zmiennej typu tablicowego",
+			"prototypem interfejsu",
+			"definicją funkcji strzałkowej"
+		],
+		"correct": 3,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/90.jpg"
+	},
+	{
+		"question": "Teoria ustalania celów opisuje właściwie określony cel jako SMART, od pierwszych liter słów: specyficzny, Mierzalny, Ambitny, Realny i Terminowy. Wskaż cel, którego osiągnięcie wymaga wysiłku i stanowi wyzwanie dla pracownika",
+		"answers": ["Mierzalny", "Ambitny", "Terminowy", "Specyficzny"],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Co można obliczyć za pomocą przedstawionego algorytmu działającego na liczbach całkowitych dodatnich?",
+		"answers": [
+			"sumę cyfr wczytanej liczby",
+			"liczbę cyfr we wczytanej liczbie",
+			"największy wspólny dzielnik wczytanej liczby",
+			"sumę wczytanych liczb"
+		],
+		"correct": 1,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/92.jpg"
+	},
+	{
+		"question": "Którego kodu może dotyczyć przedstawiona treść wygenerowana podczas uruchomienia programu Java>",
+		"answers": ["Kodu 4", "Kodu 2", "Kodu 3", "Kodu 1"],
+		"correct": 0,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/93.jpg"
+	},
+	{
+		"question": "Wskaż przykład wypadku przy pracy",
+		"answers": [
+			"oparzenie ręki, które nastąpiło w czasie nieobowiązkowego doszkalania w czasie wolnym pracownika",
+			"złe samopoczucie wywołane przewlekła chorobą pracownika, które nastąpiło w miejscu pracy",
+			"uraz stawu skokowego, który nastąpił podczas bezpośredniej drogi do pracy",
+			"złamanie nogi podczas urlopu wypoczynkowego udzielonego przez pracodawcę"
+		],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Która dokumentacja funkcji jest prawidłowa dla przedstawionego kodu źródłowego?",
+		"answers": ["Dokumentacja 1", "Dokumentacja 3", "Dokumentacja 4", "Dokumentacja 2"],
+		"correct": 3,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/95.jpg"
+	},
+	{
+		"question": "Przedstawiony zbiór operatorów należy do grupy operatorów",
+		"answers": ["arytmetycznych", "przypisania", "logicznych", "porównania"],
+		"correct": 0,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/96.jpg"
+	},
+	{
+		"question": "Który typ testów może być opisany przedstawionym scenariuszem",
+		"answers": ["testy wydajnościowe", "testy jednostkowe", "testy kompatybilności", "testy funkcjonalne"],
+		"correct": 3,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/97.jpg"
+	},
+	{
+		"question": "Którą wartość zwróci funkcja zapisana językiem C++, jeżeli jej parametr wejściowym jest tablica utworzona w następujący sposób: int tablica[6] = {3,4,2,4,10,0);?",
+		"answers": ["10", "0", "23", "20"],
+		"correct": 2,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/98.jpg"
+	},
+	{
+		"question": "Aby zaimplementować w aplikacji jednokierunkową funkcję skrótu tzw. funkcję haszującą można posłużyć się algorytmem",
+		"answers": ["DES", "RSA", "AES", "MD5"],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "Liczba A4 zapisana systemem heksadecymalnym ma postać binarną",
+		"answers": ["1010100", "10100100", "10100010", "1011100"],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Wskaż uproszczony kod XAML dla kontrolek w przedstawionym oknie dialogowym",
+		"answers": ["Kod 3", "Kod 1", "Kod 2", "Kod 4"],
+		"correct": 2,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/101.jpg"
+	},
+	{
+		"question": "Przedstawiony kod napisany w języku XML/XAML definiuje",
+		"answers": ["stepper", "listę rozwijaną", "suwak", "przełącznik"],
+		"correct": 3,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/102.jpg"
+	},
+	{
+		"question": "Przedstawiony opis licencji w ramce wskazuje, że jest to licencja",
+		"answers": ["OEM", "Open Source", "Freeware", "Shareware"],
+		"correct": 1,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/103.jpg"
+	},
+	{
+		"question": "W wyniku wykonania przedstawionego kodu w konsoli wyświetlona zostanie liczba",
+		"answers": ["108", "115", "73", "0"],
+		"correct": 1,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/104.jpg"
+	},
+	{
+		"question": "Klasa w programowaniu obiektowym to",
+		"answers": ["zmienna", "wskaźnik", "instrukcja", "typ danych"],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "Przedstawiony kod funkcji \"wykonaj()\" sprawdza, czy",
+		"answers": [
+			"wszystkie elementy tablicy są równe wartości określonego elementu (argument)",
+			"określony element (argument) znajduje się w tablicy zawierającej liczby całkowite",
+			"w tablicy liczb całkowitych znajdują się tylko wartości 4, 15, -2, 9, 202",
+			"określony element (argument) jest wartością z zakresu od 0 do 4"
+		],
+		"correct": 1,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/106.jpg"
+	},
+	{
+		"question": "Poprawna definicja konstruktora przedstawionej klasy w języku C++ może wyglądać jak w",
+		"answers": ["Deklaracji 1", "Deklaracji 2", "Deklaracji 3", "Deklaracji 4"],
+		"correct": 0,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/107.jpg"
+	},
+	{
+		"question": "Wywołanie funkcji zamien napisanej w języku C++ może wyglądać następująco",
+		"answers": [
+			"zamien(12, 34);",
+			"zamien(*a, *b); //a,b - zmienne typu całkowitego",
+			"zamien(&a, &b); //x,y - zmienne typu całkowitego",
+			"zamien(m,n); //m,n - zmienne typu całkowitego"
+		],
+		"correct": 2,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/108.jpg"
+	},
+	{
+		"question": "W programie napisanym w języku C++ należy utworzyć zmienną, która przechowa liczbę rzeczywistą. Określ typ tej zmiennej",
+		"answers": ["int", "double", "number", "numeric"],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Przedstawiony fragment opisuje funkcję resize języka C++. Funkcja ta zmniejszy długość elementu string, gdy wartość parametru",
+		"answers": [
+			"c jest mniejsza niż bieżąca długość łańcucha",
+			"n jest mniejsza niż bieżąca długość łańcucha",
+			"n jest większa niż bieżąca długość łańcucha",
+			"c jest większa niż bieżąca długość łańcucha"
+		],
+		"correct": 1,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/110.jpg"
+	},
+	{
+		"question": "Co stanie się po wykonaniu przedstawionego fragmentu kodu napisanego w języku C++?",
+		"answers": [
+			"do tablicy liczby, na jej początku, dodawane są kolejne wartości",
+			"z tablicy liczby usuwane są elementy, za każdym obiegiem pętli usuwany jest element z jej końca",
+			"z tablicy liczby usuwane są elementy, za każdym obiegiem pętli usuwany jest element z jej początku",
+			"do tablicy liczby, na jej końcu, dodawane są kolejne wartości"
+		],
+		"correct": 3,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/111.jpg"
+	},
+	{
+		"question": "Na rysunku przedstawiony jest fragment schematu blokowego pewnego algorytmu. Ile razy zostanie sprawdzony warunek n<7?",
+		"answers": ["8", "5", "7", "6"],
+		"correct": 3,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/112.jpg"
+	},
+	{
+		"question": "Które narzędzie programistyczne służy do tłumaczenia kodu źródłowego do postaci zrozumiałej dla komputera, sprawdza wszystkie instrukcje kodu, czy nie występują w nich błędy, a następnie tworzy wykonywalny moduł?",
+		"answers": ["interpreter", "kompilator", "debugger", "dekompilator"],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Przedstawiona dokumentacja opisuje algorytm sortowania",
+		"answers": ["szybkiego (Quicksort)", "przez wybór", "przez wstawianie", "bąbelkowe"],
+		"correct": 3,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/114.jpg"
+	},
+	{
+		"question": "Pracując w grupie i dbając o jej poprawne funkcjonowanie, nie należy",
+		"answers": [
+			"wzajemnie się motywować",
+			"rzetelnie i na czas wywiązywać się ze swoich zobowiązań",
+			"dbać wyłącznie o własny interes",
+			"brać odpowiedzialność za podejmowane działania"
+		],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Który blok kodu zawiera przykład użycia rekurencji?",
+		"answers": ["Blok 1", "Blok 3", "Blok 4", "Blok 2"],
+		"correct": 0,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/116.jpg"
+	},
+	{
+		"question": "Programy działające w systemach Android wykorzystują do interakcji z użytkownikiem klasę",
+		"answers": ["Activity", "Screens", "Fragments", "Windows"],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "W wyniku wykonania przedstawionego kodu napisanego w języku C++ w konsoli zostanie wyświetlony ciąg liczb",
+		"answers": ["1 2 3 4 5 6", "2 3 4 5 6 7", "1 2 3 4 5", "2 3 4 5 6"],
+		"correct": 3,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/118.jpg"
+	},
+	{
+		"question": "Do form przekazu werbalnego należy",
+		"answers": ["mówienie", "wyraz twarzy", "pozycja ciała", "gestykulacja"],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Przy pomocy którego obiektu można utworzyć kontrolkę wskazaną strzałką na obrazie?",
+		"answers": [
+			"Windows - dla biblioteki WPF; JFrame - dla biblioteki Swing",
+			"Text - dla biblioteki WPF; JText - dla biblioteki Swing",
+			"Box - dla biblioteki WPF; JField - dla biblioteki Swing",
+			"TextBox - dla biblioteki WPF; JTextField - dla biblioteki Swing"
+		],
+		"correct": 3,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/120.jpg"
+	},
+	{
+		"question": "Co zostanie wyświetlone po wykonaniu przedstawionego kodu zapisanego w języku C++?",
+		"answers": ["Pochodna. Pochodna.", "Bazowa. Pochodna.", "Pochodna. Bazowa.", "Bazowa. Bazowa."],
+		"correct": 0,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/121.jpg"
+	},
+	{
+		"question": "W przedstawionym kodzie zostało zaprezentowane jedno z podstawowych założeń programowania obiektowego. Jest to",
+		"answers": ["polimorfizm", "abstrakcja", "dziedziczenie", "hermetyzacja"],
+		"correct": 2,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/122.jpg"
+	},
+	{
+		"question": "Framework Angular został napisany w języku",
+		"answers": ["Postscript", "PHP", "Typescript", "C#"],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Jedną z możliwości testów funkcjonalnych wykonywanych na aplikacji webowej jest sprawdzenie",
+		"answers": [
+			"bezpieczeństwa aplikacji",
+			"stopnia optymalizacji kodu aplikacji",
+			"wydajności aplikacji",
+			"poprawności wyświetlanych elementów aplikacji"
+		],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "Wyróżnione elementy w przedstawionych ramkach mają za zadanie",
+		"answers": [
+			"pobranie nazwy obiektu reprezentującego okno aplikacji",
+			"ustawienie nazwy obiektu reprezentującego okno aplikacji",
+			"ustawienie tytułu okna na \"Tekst\"",
+			"zapisanie tytułu okna do obiektu Tekst"
+		],
+		"correct": 2,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/125.jpg"
+	},
+	{
+		"question": "Jaki będzie efekt działania przedstawionych dwóch równoważnych funkcjonalnie fragmentów kodu źródłowego?",
+		"answers": [
+			"wyświetlony na stronie tekst w akapicie: \"Egzamin zawodowy\"",
+			"wyświetlony na stronie tekst w nagłówku: \"Egzamin zawodowy\"",
+			"nadany tytuł każdego elementu HTML: \"Egzamin zawodowy\"",
+			"nadany tytuł strony: \"Egzamin zawodowy\""
+		],
+		"correct": 1,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/126.jpg"
+	},
+	{
+		"question": "Jaki kwalifikator należy nadać metodzie, aby dostęp do niej był możliwy tylko z ciała tej klasy i klas potomnych,a jednocześnie, żeby ta metoda nie była dostępna w dowolnej funkcji?",
+		"answers": ["public", "private", "reinterpret_cast", "protected"],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "Co zostanie zapisane w etykiecie label po wykonaniu przedstawionego kodu, uruchomionego po kliknięciu w przycisk okna aplikacji?",
+		"answers": [
+			"suma liczb parzystych z przedziału od 0 do 100",
+			"liczby parzyste z przedziału od 0 do 100",
+			"suma liczb z przedziału od 0 do 100",
+			"liczby z przedziału od 0 do 100"
+		],
+		"correct": 0,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/128.jpg"
+	},
+	{
+		"question": "Szkodliwe oprogramowanie, zaprojektowane w celu zapewnienia hakerom uprawnień administracyjnych do komputera ofiary bez jej wiedzy, to",
+		"answers": ["wirus", "keylogger", "robak", "rootkit"],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "Po wykonaniu przedstawionego kodu zapisanego w języku C++ na ekranie konsoli zostanie wyświetlony tekst:",
+		"answers": [
+			"\"%s dodawania: %d + %.2f=%f\", \"Wynik\", a, b, w",
+			"dodawania: 5+5.12345=10.123450 Wynik",
+			"Wynik dodawania: 5+5.12=10.123450",
+			"\"%s dodawania: %d + %.2f = %f\", \"Wynik\", 5, 5.12345, 10.123450"
+		],
+		"correct": 2,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/130.jpg"
+	},
+	{
+		"question": "Jaki ciąg tekstowy zostanie wyświetlony po wykonaniu jednego z przedstawionych kodów?",
+		"answers": ["{{2+2}}", "{2+2}", "4", "{4}"],
+		"correct": 2,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/131.jpg"
+	},
+	{
+		"question": "W języku Java wyjątek ArrayIndexOutOfBoundsException może pojawić się w sytuacji odwołania się do elementu tablicy, którego",
+		"answers": [
+			"wartość jest większa niż rozmiar tablicy",
+			"indeks jest równy lub większy od rozmiaru tablicy",
+			"indeks jest z przedziału od 0 do n-1, gdzie n jest rozmiarem tablicy",
+			"wartość jest większa niż jego indeks"
+		],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Resuscytacja krążeniowo-oddechowa polega na wykonywaniu",
+		"answers": [
+			"10 uciśnięć klatki piersiowej i 5 oddechów ratowniczych",
+			"15 uciśnięć klatki piersiowej i 3 oddechów ratowniczych",
+			"30 uciśnięć klatki piersiowej i 2 oddechów ratowniczych",
+			"20 uciśnięć klatki piersiowej i 1 oddechu ratowniczego"
+		],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Przedstawiony na filmie kod napisany w języku C++ nie kompiluje się. Co należy zmienić w tym kodzie, aby proces kompilacji wykonał się bez błędów?",
+		"answers": [
+			"dodać deklarację funkcji sprawdz przed funkcją main",
+			"zapisać poprawnie warunek w instrukcji if w linii 11, np. sprawdz(x)==true",
+			"poprawić błąd w funkcji sprawdz, polegający na braku nawiasów {} w pętli for",
+			"zadeklarować zmienną sprawdz przed jej użyciem w linii 11"
+		],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Która metoda biblioteki jQuery języka JavaScript odpowiada za naprzemienne dodawanie i usuwanie klasy elementu?",
+		"answers": [".toggleClass()", ".switchClass()", ".changeClass()", ".bingClass()"],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Framework to",
+		"answers": [
+			"platforma programistyczna dostarczająca pewne komponenty i narzucająca pewien szkielet lub metodykę tworzenia aplikacji",
+			"zbiór podprogramów, danych i złożonych typów danych wykorzystywanych w kodzie źródłowym aplikacji",
+			"oprogramowanie, które metodą drag and drop umożliwia utworzenie interfejsu aplikacji",
+			"narzędzie służące do tworzenia, modyfikowania, testowania i uruchamiania oprogramowania"
+		],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Diagram Gantta jest stosowany w celu",
+		"answers": [
+			"obrazowania funkcjonalności systemu",
+			"szczegółowej analizy czasowo-kosztowej projektu",
+			"planowania i zarządzania projektem",
+			"wizualizacji zależności między elementami systemów"
+		],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Jednym z zadań widoku we wzorcu MVVM (Model_View-Viewmodel) jest",
+		"answers": [
+			"obsługa logiki aplikacji - zawiera implementację algorytmów",
+			"obsługa interakcji użytkownika, utworzenie interfejsu użytkownika",
+			"udostępnianie danych dla widoku oraz wymiana danych z modelem",
+			"przechowywanie pobranych oraz przetworzonych danych"
+		],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Jednostką zalecaną przy tworzeniu układu interfejsu aplikacji jest",
+		"answers": ["mm", "px", "dp", "pt"],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Które logo przedstawia narzędzie, którego nie wykorzystuje się do tworzenia aplikacji mobilnych",
+		"answers": ["4", "1", "3", "2"],
+		"correct": 3,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/140.jpg"
+	},
+	{
+		"question": "Frameworki/biblioteki typowe dla aplikacji webowych to",
+		"answers": [
+			"ASP.NET Core, jQuery, Joomla!, Wordpress, Angular",
+			"jquery, Joomla!, Wordpress, android Studio, Xamarin",
+			"ASP.NET Core, Django, Angular, React.js, Node.js",
+			"Visual Studio, Eclipse, angular, React.js, Node.js"
+		],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Jak zaimportować tylko komponent z biblioteki React?",
+		"answers": [
+			"import React.Component from 'react'",
+			"import [ Component ] from 'react'",
+			"import Component from 'react'",
+			"import { Component } from 'react'"
+		],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "W wyniku wykonania przedstawionego kodu zostaną wypisane",
+		"answers": [
+			"elementy tablicy o następujących indeksach: 1, 2, 4, 5, 7, 8",
+			"elementy spod indeksów tablicy podzielnych przez 3",
+			"wszystkie elementy tablicy, które są podzielne przez 3",
+			"wszystkie nieparzyste elementy tablicy"
+		],
+		"correct": 0,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/142.jpg"
+	},
+	{
+		"question": "W firmie IT obowiązują przedstawione wytyczne dotyczące zarządzania projektami, Wynika z nich, że firma stosuje model zarządzania",
+		"answers": ["prototypowy", "zwinny", "kaskadowy", "spiralny"],
+		"correct": 1,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/143.jpg"
+	},
+	{
+		"question": "Aby zastosować framework Django należy programować w języku",
+		"answers": ["C#", "JavaScript", "Python", "Java"],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Wskaż wspólną cechę wszystkich kontrolek przedstawionych w ramce",
+		"answers": [
+			"wszystkie są widoczne",
+			"mają tło tego samego koloru",
+			"mają ten sam kolor czcionki",
+			"są w nich ustawione te same wartości domyślne"
+		],
+		"correct": 1,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/145.jpg"
+	},
+	{
+		"question": "Aby programować aplikacje desktopowe za pomocą języka Java można wybrać środowisko",
+		"answers": ["NetBeans", "SharpDevelop", "PyCharm", "Ms Visual Studio"],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Przedstawiona pętla wykorzystuje obiekt random do",
+		"answers": [
+			"wielokrotnego losowania liczby, aby utworzyć napis składający się z liczb pseudolosowych",
+			"wypełnienia tablicy wynik liczbami pseudolosowymi",
+			"pojedynczego wylosowania znaku z podanej puli znaków",
+			"wygenerowania 8-znakowego losowego napisu składającego się z liter"
+		],
+		"correct": 2,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/147.jpg"
+	},
+	{
+		"question": "Ryzykiem zawodowym nazywa się",
+		"answers": [
+			"zagrożenie wypadkowe występujące na stanowisku pracy",
+			"skutki zagrożeń wypadkowych wystepujących na stanowisku pracy",
+			"ciężkość następstw niepożądanych zdarzeń związanych z wykonywaną pracą",
+			"prawdopodobieństwo wystąpienia niepożądanych zdarzeń związanych z wykonywaną pracą, powodujących straty, w szczególności wystąpienia u pracowników niekorzystnych skutków zdrowotnych"
+		],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "Który system operacyjny jest natywnym systemem do tworzenia aplikacji mobilnych w języku Swift?",
+		"answers": ["iOS", "LG UX", "Android", "Windows UWP"],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Które wyrażenie logiczne należy zastosować, aby sprawdzić czy zmienna x przechowuje wartości ujemne albo z przedziału (10, 100)",
+		"answers": [
+			"x > 10 || x < 100 || x < 0",
+			"(x > 10 && x < 100) || x < 0",
+			"x > 10 || x < 100 || x < 0",
+			"(x > 10 || x < 100) && x < 0"
+		],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Odpowiednikami zmiennych i funkcji programowania strukturalnego są w programowaniu obiektowym",
+		"answers": [
+			"pola i metody",
+			"metody statyczne i abstrakcyjne",
+			"hermetyzacja i dziedziczenia",
+			"pola i kwalifikatory dostępu"
+		],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Za pomocą React.js i Angular zapisano funkcjonalnie równoważne kody źródłowe. Aby w metodzie handleSubmit można było wyświetlić zawartość kontrolki input w miejscu oznaczonym ??? należy odnieść się do atrybutu o nazwie",
+		"answers": ["nazwa4", "nazwa2", "nazwa1", "nazwa3"],
+		"correct": 2,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/152.jpg"
+	},
+	{
+		"question": "Który kod jest implementacją przedstawionego fragmentu algorytmu?",
+		"answers": ["Kod 1", "Kod 2", "Kod 3", "Kod 4"],
+		"correct": 2,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/153.jpg"
+	},
+	{
+		"question": "Dla podanego algorytmu złożoność obliczeniowa jest równa",
+		"answers": ["O(n log n)", "O(n)", "O(1)", "O(n2)"],
+		"correct": 1,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/154.jpg"
+	},
+	{
+		"question": "Wskaż kod funkcjonalnie równorzędny przedstawionemu",
+		"answers": ["Kod 1", "Kod 2", "Kod 3", "Kod 4"],
+		"correct": 1,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/155.jpg"
+	},
+	{
+		"question": "Środowiskiem dedykowanym do tworzenia aplikacji mobilnych dla urządzeń Apple i wykorzystującym do tego celu różne języki programowania w tym Java i Objective C jest",
+		"answers": ["Android Studio", "NetBeans", "XCode", "React Native"],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Przedstawiony symbol ochrony przeciwpożarowej oznacza",
+		"answers": ["tablicę rozdzielczą", "alarm pożarowy", "wyłącznik prądu", "stanowisko zdalnego uwalniania"],
+		"correct": 1,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/157.jpg"
+	},
+	{
+		"question": "Systemem kontroli wersji jest",
+		"answers": ["Trello", "Jira", "Git", "Bugzilla"],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Sumą liczb binarnych 1101 i 1001 jest",
+		"answers": ["1110", "10111", "1001", "10110"],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "Wskaż cechę charakterystyczną dla metody abstrakcyjnej",
+		"answers": [
+			"jest zawsze prywatna",
+			"jest pusta w klasach potomnych",
+			"nie jest zaimplementowana w klasie bazowej",
+			"jest pusta w klasie bazowej"
+		],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Błędy interpretracji kodu wytworzonego za pomocą środowiska React.js lub Angular można śledzić przy pomocy",
+		"answers": [
+			"wbudowanego w środowisko debuggera",
+			"konsoli przeglądarki internetowej",
+			"narzędzi zainstalowanych po stronie serwera aplikacji",
+			"kompilatora języka JavaScript"
+		],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "W standardzie dokumentacji testów oprogramowania IEEE 829-1998 jest opisany dokument, który zawiera informacje o tym, które przypadki testowania zostały użyte, kto je użył i czy powiodły się. Jest to",
+		"answers": ["Test Plan", "Test Procedure Specification", "Test Log", "Test Summary Report"],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Klasie o nazwie samochod nadano cechy: marka, rocznik, parametry[]. Cechy te należy zdefiniować jako",
+		"answers": ["funckje", "pola", "interfejsy", "metody"],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Błąd kompilacji \"incompatible types\" może zostać wygenerowany, gdy",
+		"answers": [
+			"funkcja przyjmuje jako argument całkowitą, a wywołana została z napisem jako parametr",
+			"popełniono błąd podczas deklaracji zmiennej, zastosowano typ, który nie istnieje",
+			"zmiennej typu int została przypisana wartość 243",
+			"funkcja zwraca typ void, a podczas wywołania nie jest przypisana do żadnej zmiennej"
+		],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Programista aplikacji mobilnych chce przekwalifikować się na pracownika Full-Stack Developer. Wskaż kurs, który powinien wybrać, aby było to możliwe",
+		"answers": [
+			"Mastering Cross-platform Developping",
+			"Ultimate C# Serier from Beginner to Advanced",
+			"Complete JavaScript React, SQL, Node.js Cource",
+			"Raster and Vector Graphics with Adobe"
+		],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Oznaczeniem komentarza wieloliniowego w języku Java jest",
+		"answers": ["/* ... */", "<!-- ... -->", "// ... //", "\"\"\" ... \"\"\""],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Wskaż numeryczne typy stałoprzecinkowe",
+		"answers": ["float, double", "int, short, long", "bool char, string", "long long, long double"],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "W którym języku programowania kod źródłowy programu, przed jego uruchomieniem, musi być skompilowany do kodu maszynowego konkretnej architektury procesora?",
+		"answers": ["PHP", "Perl", "Java", "C++"],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "Projektując aplikację zorientowaną obiektowo należy założyć, że program będzie sterowany za pomocą",
+		"answers": [
+			"modułów z zawartymi w nich funkcjami i zmiennymi globalnymi",
+			"pętli dyspozytora, która w zależności od zdarzenia wywoła odpowiednią funkcję",
+			"definicji warunków końcowego rozwiązania",
+			"zbioru instancji klas współpracujących ze sobą"
+		],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "Które stwierdzenie dotyczące pojęcia obiekt jest prawdziwe?",
+		"answers": [
+			"obiekt jest typem złożonym",
+			"obiekt jest instancją klasy",
+			"obiekt i klasa są tożsame",
+			"obiekt umożliwia zdefiniowanie klasy"
+		],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Która cecha wyróżnia framework od biblioteki?",
+		"answers": [
+			"Framework determinuje architekturę aplikacji i dostarcza jej szkielet",
+			"Framework dostarcza funkcje użytkowe w danej dziedzinie problemu",
+			"Framework jest zbiorem funkcjonalności, które programista może wykorzystać",
+			"Framework dostarcza API do większego zestawu funkcji"
+		],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Narzędziem do monitorowania procesu wykonywania zadań przez członków zespołu projektowego może być diagram",
+		"answers": ["Venna", "Gantta", "związków encji", "aktywności UML"],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Jedną z chorób, która występuje u programistów na skutek długotrwałej pracy z myszą komputerową lub klawiaturą, chrakteryzującą się bólami, drętwieniem i zaburzeniami czucia w obszarze 1-3 palca ręki jest",
+		"answers": ["zespół cieśni kanału nadgarstka", "zespół suchego oka", "kifoza", "dyskopatia"],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Aby zadeklarować pole, które będzie pełniło funkcję licznika instancji klasy, należy definicję takiego pola poprzedzić słowem kluczowym",
+		"answers": ["register", "static", "operator", "virtual"],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Jeżeli w aplikacji występuje błąd działania, a programista musi sprawdzić wartości przechowywane w zmiennych, w danym momencie uruchomienia aplikacji, to należy do tego celu wykorzystać",
+		"answers": ["analizator składni", "wirtualną maszynę", "debugger", "interpreter"],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Która lista typów obejmuje jedynie typy złożone?",
+		"answers": ["class, struct, float", "char, struct, union", "class, struct, union", "unsigned, struct, float"],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Liczba 1AF zapisana kodem szesnastkowym po przeliczeniu na kod dziesiętny wynosi",
+		"answers": ["431", "6890", "26", "257"],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Wewnątrz klasy pracownik zdefiniowano przedstawione metody. Do której z nich można zgodnie z jej przeznaczeniem dopisać element diagnostyczny o treści: cout << \"Obiekt został usunięty\";?",
+		"answers": ["operator==", "pracownik", "~pracownik", "wypisz"],
+		"correct": 2,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/178.jpg"
+	},
+	{
+		"question": "Zmienna typy logicznego może przyjąć wartości:",
+		"answers": ["1, -1", "true, false", "0 oraz dowolną całkowitą", "trzy dowolne naturalne"],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Szablon MojaTablica implementuje funkcjonalność tablicy o indeksach różnego typu i elementach różnego typu. Na podstawie przedstawionego kodu, który wykorzystuje szablon do inicjacji tablicy asocjacyjnej wskaż definicję wykorzystującą szablon do utworzenia tablicy, w której indeksami są liczby całkowite a elementy napisy",
+		"answers": [
+			"MojaTablica tab2 = MOjaTablica();",
+			"int tab2[] = new MojaTablica();",
+			"MojaTablica tab2 = new MojaTablica();",
+			"int tab2 = new MojaTablica();"
+		],
+		"correct": 2,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/180.jpg"
+	},
+	{
+		"question": "Na podstawie definicji przedstawionej w ramce wskaż, który rysunek przedstawia komponent Chip zdefiniowany w bibliotece Angular Material.",
+		"answers": ["Rysunek 1", "Rysunek 2", "Rysunek 3", "Rysunek 4"],
+		"correct": 3,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/181.jpg"
+	},
+	{
+		"question": "Na przedstawionych rysunkach znajduje się okno aplikacji w stanie początkowym oraz po wypełnieniu danych. Zakładając, że pole \"Dostępne środki\" jest przeznaczone do wprowadzania wartości typu rzeczywistego, wskaż składowe struktury, które optymalnie pasują do tych danych",
+		"answers": ["Kod 1", "Kod 2", "Kod 3", "Kod 4"],
+		"correct": 1,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/182.jpg"
+	},
+	{
+		"question": "W procesorze, jednostką odpowiedzialną za działania na liczbach zmiennoprzecinkowych jest",
+		"answers": ["IU", "FPU", "ALU", "AU"],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Klasa Mieszkaniec zawiera pola: imie, nazwisko, ulica, nrDomu, rokUrodzenia. w klasie zdefiniowano przedstawione w punktach konstruktory (zapisano jedynie typy argumrntów). Do inicjowania obiektu konstruktorem kopiującym wykorzystany zostanie konstruktor przedstawiony w punkcie",
+		"answers": ["1", "4", "3", "2"],
+		"correct": 3,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/184.png"
+	},
+	{
+		"question": "Który z warunków logicznych sprawdza, czy zmienna całkowita x jest dodatnią liczbą dwucyfrową podzielną przez 4?",
+		"answers": [
+			"(x > 9 && x < 100) && (x % 4 == 0)",
+			"(x > 9 || x < 100) && (x / 4 == 0)",
+			"(x > 9 && x < 100) || (x % 4 == 0)",
+			"(x > 0 && x < 100) || (x / 4 == 0)"
+		],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Stosując jeden z dwóch przedstawionych zapisów inkrementacji w językach rodziny C lub Java, można stwierdzić, że",
+		"answers": [
+			"wartość zmiennej b będzie wyższa po wykonaniu zapisu drugiego w porównaniu z pierwszym",
+			"zapis drugi jest niezgodny ze składnią, co spowoduje błędy kompilacji",
+			"niezależnie od zapisu, w zmiennej b zawsze będzie ten sam wynik",
+			"jedynie stosując zapis pierwszy, zmienna a zostanie zwiększona o 1"
+		],
+		"correct": 0,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/186.png"
+	},
+	{
+		"question": "Które określenie najlepiej opisuje złożoność obliczeniową algorytmy quicksort?",
+		"answers": [
+			"jest wyższa niż złożoność sortowania bąbelkowego",
+			"jest zawsze niższa niż złożoność każdego innego algorytmy sortowania",
+			"jest wyższa niż O(n2).",
+			"jest różna w zależności od wyboru elementu rozdzielającego"
+		],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "Co zostanie wygenerowane w przeglądarce w wyniku działania kodu źródłowego zapisanego za pomocą dwóch równoważnych funkcjonalnie fragmentów?",
+		"answers": [
+			"Trzy paragrafy, każdy z kolejnym elementem tablicy tags",
+			"jeden paragraf z kolejno wszystkimi elementami tablicy tags",
+			"jeden paragraf z pierwszym elementem tablicy tags",
+			"trzy paragrafy, w każdym z nich napis o treści: {tag}"
+		],
+		"correct": 0,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/188.png"
+	},
+	{
+		"question": "W aplikacji mobilnej, aby zdefiniować warianty grafiki w zależności od rozdzielczości ekranu, należy (uwaga: odpowiedzi wariantowe dla dwóch platform - sugerować się platformą wykorzystywaną na zajęciach)",
+		"answers": [
+			"iOS: dodać do nazw przyrostki wskazujące na rozdzielczość, np.32ppi. Android: umieścić grafikę w odpowiednich folderach: 32ppi, 64ppi, 96ppi.",
+			"iOS: dodać do nazw plików przyrostki @2x, @3x. Android: umieścić grafikę w odpowiednich folderach drawable: -hdpi, -xhpi, xxhdpi.",
+			"iOS: dodać do nazw przyrostki #2x, #3x. Android: dodać do nazw przyrostek rozdzielczości: -32x32, -64x64, -96x96.",
+			"iOS: utworzyć foldery hdpi, lhpi, xhpi i dodać do nich grafiki. Android: utworzyć foldery 32x32, 64x64, 96x96 i dodać do nich grafiki."
+		],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Programista projektuje obsługę bufora drukowania dokumentów. Najnowsze zadanie drukowania jest ustawiane na końcu kolejki, najstarsze jest przekazywane do wydruku. Strukturą danych najlepiej pasującą do problemu jest",
+		"answers": ["Stos", "Sterta", "LIFO", "FIFO"],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "Która z akcji powinna być zaimplementowana w części back-end aplikacji internetowej?",
+		"answers": [
+			"wypisywanie danych pobranych z formularza w przeglądarce",
+			"obsługa zdarzeń kontrolek",
+			"walidacja formularzy w czasie rzeczywistym",
+			"obsługa bazy danych"
+		],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "Programista popełnił błąd w przedstawionym kodzie. Na czym ten błąd polega?",
+		"answers": [
+			"brak konstruktora w definicji klasy",
+			"inicjacja obiektu jest nieprawidłowo zapisana",
+			"w inicjacji obiektu powinny być przekazane argumenty konstruktora",
+			"pole autor jest niedostępne z tego poziomu"
+		],
+		"correct": 3,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/192.png"
+	},
+	{
+		"question": "Aby zaimplementować algorytm sortowania bąbelkowego dla tablicy n-elementowej, potrzeba",
+		"answers": [
+			"n-liczby warunków",
+			"dwóch pętli działających na co najmniej (n+1) elementach każda",
+			"jednej pętli działającej na 2n elementach i warunku",
+			"dwóch pętli działających na najwyżej n-elementach każda"
+		],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "W przedstawionych fragmentach kodu zdefiniowano funkcję o nazwie fun1. W funkcji tej należy umieścić obsługę",
+		"answers": [
+			"wybrania przycisku zatwierdzającego dialog",
+			"aplikacji po zdarzeniu utraty focusa przez pola opcji",
+			"inicjalizacji elementów interfejsu użytkownika",
+			"usunięcia kontrolek z pamięci operacyjnej"
+		],
+		"correct": 0,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/194.png"
+	},
+	{
+		"question": "Przedstawiona pętla operuje na zmiennej napisowej ciąg. Jej zadaniem jest",
+		"answers": [
+			"od każdego znaku w napisie, który nie jest równy 0, odjąć kod 32",
+			"zamienić w napisie małe litery na wielkie",
+			"od każdego znaku w napisie odjąć kod 32",
+			"zamienić w napisie wielkie litery na małe"
+		],
+		"correct": 1,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/195.png"
+	},
+	{
+		"question": "Przedstawiony sposób deklaracji Klasa2 oznacza, że",
+		"answers": [
+			"Klasa1 dziedziczy po Klasa2",
+			"Klasa1 jest potomkiem Klasy2",
+			"Klasa2 dziedziczy po Klasa1",
+			"Klasa2 jest klasą bazową"
+		],
+		"correct": 2,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/196.png"
+	},
+	{
+		"question": "Testy mające na celu wykrycie błędów w interfejsach pomiędzy modułami lub systemami to testy",
+		"answers": ["wydajnościowe", "bezpieczeństwa", "integracyjne", "jednostkowe"],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Metodyka zwinna (ang. agile) polega na",
+		"answers": [
+			"podziale przedsięwzięcia na następujące po sobie etapy: projekt, programowania, testy, wraz z ciągłym szacowaniem ryzyka przedsięwzięcia",
+			"dekompozycji przedsięwzięcia na części, które są oddzielnie projektowane, wytwarzane i testowane w krótkich cyklach",
+			"zaprojektowaniu całej aplikacji na początku trwania przedsięwzięcia i tworzeniu jej na przemian z testowaniem",
+			"opracowaniu testów dla całego przedsięwzięcia, a następnie implementowaniu kolejnych jego części"
+		],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Mechanizm programowania obiektowego w C++, wykorzystujący funkcje wirtualne (z ang. Virtual), który przy wywołaniu metod zwalnia programistę z obowiązku sprawdzenia jaką klasę pochodną aktualnie obsługuje, np. przez wskaźnik nosi nazwę",
+		"answers": ["dziedziczenia", "przeciążenia", "hermetyzacji", "polimorfizmu"],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "We frameworkach do tworzenia aplikacji mobilnych lub desktopowych występuje wzorzec MVVM, czyli Model-View-ViewModel. To podejście do programowania zakłada, że",
+		"answers": [
+			"interfejs użytkownika oraz logika aplikacji są kodowane w jednym pliku",
+			"kontrolki i widoki interfejsu użytkownika są zaszyte w logice aplikacji",
+			"interfejs użytkownika oraz logika aplikacji są rozdzielone",
+			"w aplikacji występuje tylko interfejs użytkownika"
+		],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "W której sekcji obsługi wyjątków jest zaimplementowana reakcja na rzucony wyjątek?",
+		"answers": ["throw", "try", "finally", "catch"],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "Na filmie przedstawiono zakładanie projektu cross-platform. Dla których platform będzie dostępna tworzona aplikacja?",
+		"answers": [
+			"dla Android, iOS oraz Windows (UWP)",
+			"dla android oraz iOS",
+			"dla iOS oraz Windows (UWP)",
+			"dla Android oraz Windows (UWP)"
+		],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Na obrazie widoczna jest aplikacja, która umozliwia",
+		"answers": [
+			"debugowanie kodu na wskazanej platformie Android",
+			"zarządzanie emulacjami systemu Android",
+			"kompilowanie kodu pod wskazaną platformę Android",
+			"zarządzanie wirtualnymi dyskami emulacji systemu android"
+		],
+		"correct": 1,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/203.png"
+	},
+	{
+		"question": "W oknie dialogowym aplikacji desktopowej umieszczono",
+		"answers": [
+			"trzy pola edycyjne, dwa pola opcji, jedno pole listy rozwijanej i dwa przyciski",
+			"trzy pola edycyjne, dwa pola etykiet, pole listy rozwijanej i dwa przyciski",
+			"trzy pola etykiet, dwa pola wyboru, pole opcji i dwa przyciski",
+			"cztery pola edycyjne, dwa pola opcji i dwa przyciski"
+		],
+		"correct": 0,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/204.png"
+	},
+	{
+		"question": "Liczba pierwiastków równania kwadratowego jest zależna od delty w sposób przedstawiony w ramce. Która instrukcja warunkowa odpowiada tej zależności, jeżeli delta to zmienna d?",
+		"answers": ["Instrukcja 1", "Instrukcja 4", "Instrukcja 2", "Instrukcja 3"],
+		"correct": 3,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/205.png"
+	},
+	{
+		"question": "Aby opublikować aplikację w sklepie Google Play/Apple Store, wymagane jest aktywne konto programisty w aplikacji",
+		"answers": [
+			"poczta gmail/poczta Apple ID",
+			"Google Search Console/Apple Store Connect",
+			"Google Analitics/Apple Keynote",
+			"konsola Google Play/iTunes Connect"
+		],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "Program, który analizuje kod źródłowy programu i od razu wykonuje przeanalizowany fragment, jest nazywany",
+		"answers": ["interpreterem", "konsolidatorem", "kompilatorem", "debuggerem"],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Które zdanie dotyczące okna modalnego jest prawdziwe?",
+		"answers": [
+			"Okno modalne może zawierać system menu, ale nie może zawierać w sobie kontrolek.",
+			"Okno modalne oddaje kontrolę innemu oknu, jeżeli to otrzymało zdarzenie.",
+			"Okno modalne pozwala na obsługę wszystkich zdarzeń aplikacji.",
+			"Okno modalne nie pozwala na obsługę zdarzeń dotyczących pozostałych okien aplikacji."
+		],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "Które zdanie jest zgodne z informacjami o funkcjach zaprzyjaźnionych przedstawionych we fragmencie dokumentacji?",
+		"answers": [
+			"Gdy prototypy funkcji zaprzyjaźnionych znajdują się w definicji klasy, funkcje te są jej metodami.",
+			"Funkcja zaprzyjaźniona nie ma dostępu do elementów protected klasy.",
+			"Tylko funkcje mogą być zaprzyjaźnione.",
+			"Funkcja zaprzyjaźniona, mimo że jest zdefiniowana na zewnątrz klasy ma dostęp do jej prywatnych elementów."
+		],
+		"correct": 3,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/209.png"
+	},
+	{
+		"question": "Typami reprezentującymi liczby rzeczywiste są",
+		"answers": ["float, unsigned", "double, char", "unsigned, long", "float, double"],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "W prezentowanym kodzie popełniono błąd logiczny, który polega na tym, że",
+		"answers": [
+			"w warunku powinna być sprawdzona wartość zmiennej a",
+			"warunek powinien być zastąpiony pętlą while",
+			"w warunku jest przypisanie zamiast porównania",
+			"warunek nie ma sensu, środowisko uruchomieniowe samo sprawdzi argument dzielenia"
+		],
+		"correct": 2,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/211.png"
+	},
+	{
+		"question": "Który z frameworków jest stosowany do budowy części back-end w aplikacjach WEB?",
+		"answers": ["Django", "Xamarin", "React.js", "Angular"],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Przedstawiona na obrazie idea sortowania odnosi się do sortowania",
+		"answers": ["przez scalanie", "kubełkowego", "przez wybieranie", "bąbelkowego"],
+		"correct": 0,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/213.png"
+	},
+	{
+		"question": "Które z praw autorskich są niezbywalne i nieograniczone w czasie?",
+		"answers": [
+			"Prawa do dokumentów urzędowych.",
+			"Autorskie prawa osobiste.",
+			"Autorskie prawa majątkowe.",
+			"Prawa do prostych informacji prasowych."
+		],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Wskaż środek ochrony, który nie jest zaliczany do środków ochrony zbiorowej",
+		"answers": ["ekran dźwiękochłonny", "gaśnica", "barierki chroniące przed upadkiem z wysokości", "okulary ochronne"],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "Kod przedstawia operacje na 1000-elementowej tablicy wypełnionej liczbami całkowitymi. Aby zoptymalizować kod, nie tracąc na jego czytelności, należy",
+		"answers": [
+			"zmniejszyć o połowę liczbę iteracji pętli",
+			"pętlę for zamienić na pętlę while",
+			"wynik metody Pow wyliczyć przed pętlą",
+			"zapisać kod bez pętli"
+		],
+		"correct": 2,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/216.png"
+	},
+	{
+		"question": "W kodzie źródłowym dwóch równoważnych funkcjonalnie fragmentów zapisano:",
+		"answers": [
+			"obsługę zdarzenia dla przycisku",
+			"przypisanie stylu o nazwie fun1 do przycisku",
+			"obsługę błędów",
+			"wywołanie funkcji, aby zainicjować stronę w przeglądarce"
+		],
+		"correct": 0,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/217.png"
+	},
+	{
+		"question": "Wskaż cechę charakterystyczną szablonów programowania obiektowego",
+		"answers": [
+			"odnoszą się tylko do typów liczbowych",
+			"zawierają informacje o formatowaniu stron internetowych",
+			"definiują funkcjonalność uniwersalną dla różnych typów danych",
+			"operują na danych jednego określonego typu"
+		],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Dana jest tablica liczb całkowitych o nazwie tbl. Po wykonaniu przedstawionych operacji w zmiennej wynik znajdzie się",
+		"answers": [
+			"liczba elementów tablicy",
+			"suma elementów tablicy",
+			"wynik dzielenia sąsiadujących elementów tablicy",
+			"średnia arytmetyczna elementów tablicy"
+		],
+		"correct": 3,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/219.png"
+	},
+	{
+		"question": "Wskaż system typu e-commerce",
+		"answers": [
+			"WordPress CMS bez dodatkowych wtyczek",
+			"Dziennik elektroniczny Librus Synergia",
+			"PrestaShop, platforma do tworzenia własnych sklepów internetowych",
+			"Elektroniczna Platforma Usług Administracji Publicznej ePUAP"
+		],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Przedstawiony format plików, służący, między innymi, do wymiany danych pomiędzy częścią back-end a front-end aplikacji internetowej, to",
+		"answers": ["JSX", "XML", "YAML", "JSON"],
+		"correct": 3,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/221.png"
+	},
+	{
+		"question": "Wskaż język programowania, w którym można utworzyć aplikację mobilną dla systemu Android",
+		"answers": ["Java", "C++", "Obiective-C", "Swift"],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Po wykonaniu przedstawionego kodu wartość przechowywana w zmiennej b wynosi",
+		"answers": ["5", "2", "11", "20"],
+		"correct": 0,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/223.jpg"
+	},
+	{
+		"question": "Frameworkiem CSS służącym do określenia wyglądu aplikacji internetowych, którego klasy zostały zastosowane na prezentowanym przykładzie jest",
+		"answers": ["Yaml", "Angular", "Symfony", "Bootstrap"],
+		"correct": 3,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/224.jpg"
+	},
+	{
+		"question": "Wskaż kod za pomocą, którego zostanie wygenerowane okno dialogowe widoczne na obrazie. Dla uproszczenia kodu, pominięto atrybuty znaczników.",
+		"answers": ["Kod 1", "Kod 2", "Kod 3", "Kod 4"],
+		"correct": 1,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/225.jpg"
+	},
+	{
+		"question": "Zmienna typu logicznego może przyjąć wartości",
+		"answers": ["true, false", "1, -1", "0 oraz dowolną liczbę całkowitą", "dowolne naturalne liczby"],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Wskaż kod, który jest implementacją w języku C++ przedstawionego fragmentu algorytmu",
+		"answers": ["Kod 1", "Kod 2", "Kod 3", "Kod 4"],
+		"correct": 3,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/227.jpg"
+	},
+	{
+		"question": "Poniższa definicja dotyczy wzorca projektowego o nazwie",
+		"answers": ["Fasada", "Prototyp", "Dekorator", "Kompozyt"],
+		"correct": 0,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/228.jpg"
+	},
+	{
+		"question": "Wskaż prawidłową definicję interfejsu (szablonu klasy) w języki Java",
+		"answers": ["Definicja 1", "Definicja 2", "Definicja 3", "Definicja 4"],
+		"correct": 3,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/229.jpg"
+	},
+	{
+		"question": "Przedstawionym na schemacie algorytmem Euklidesa należy się posłużyć do wyznaczenia",
+		"answers": [
+			"największego elementu zbioru liczb",
+			"najmniejszej liczby pierwszej w przedziale",
+			"najmniejszej wspólnej wielokrotności",
+			"największego wspólnego dzielnika"
+		],
+		"correct": 3,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/230.jpg"
+	},
+	{
+		"question": "Wydane polecenia dotyczące repozytorium Git zakładając, że aktywnym folderem jest folder projektu, mają na celu",
+		"answers": [
+			"rozpoczęcie pracy z nowym repozytorium, dodanie i zatwierdzenie kodu projektu pod nazwą first commit",
+			"zamknięcie projektu, tak że wszystkie rewizje zostaną zarchiwizowane do lokalnego archiwum o nazwie first commit",
+			"utworzenie kopii istniejącego repozytorium jedynie z rewizją zapisaną pod nazwą first commit",
+			"rozpoczęcie sesji z istniejącym repozytorium i pobranie kodu projektu do lokalnego folderu"
+		],
+		"correct": 0,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/231.jpg"
+	},
+	{
+		"question": "Cechą dobrego negocjatora jest",
+		"answers": ["zarozumiałość", "egoizm", "opanowanie", "niepewność"],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Programując przedstawioną na obrazie kontrolkę stepper w aplikacji mobilnej należy obsłużyć zmienną, która przechowuje zawsze jej aktualną wartość. Do uzyskania takiej funkcjonalności można skorzystać ze zdarzenia",
+		"answers": ["DescendantAdded", "ValueChanged", "Unfocused", "SizeChanged"],
+		"correct": 1,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/233.jpg"
+	},
+	{
+		"question": "Które działanie dotyczące klasy abstrakcyjnej jest zabronione?",
+		"answers": [
+			"Powołanie instancji tej klasy",
+			"Deklaracja pól publicznych",
+			"Deklaracja metody wirtualnej",
+			"Dziedziczenie po tej klasie"
+		],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Na równoważnych funkcjonalnie fragmentach kodu aplikacji Angular i React.js przedstawiono:",
+		"answers": [
+			"obsługę zdarzenia zatwierdzenia formularza",
+			"wypisanie w konsoli przeglądarki danych pobranych z pól formularzy w czasie rzeczywistym, gdy użytkownik je wypełnia",
+			"funkcję, która przepisuje do zmiennych f lub e dane z pola input formularza",
+			"funkcję wypełniającą dane w formularzu podczas jego inicjacji"
+		],
+		"correct": 0,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/235.jpg"
+	},
+	{
+		"question": "Wskaż komentarz jednoliniowy, który można dopisać do linii 3 w miejscu znaków zapytania tak, aby był poprawny składniowo i opisywał operację wykonywaną w tej linii",
+		"answers": [
+			"// wyswietlenie elementu tablicy",
+			"# wypelnienie elementu tablicy",
+			"// wypelnienie elementu tablicy",
+			"# wyswietlenie elementu tablicy"
+		],
+		"correct": 0,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/236.jpg"
+	},
+	{
+		"question": "Wskaż kod, który wygeneruje przedstawioną kontrolkę",
+		"answers": ["Kod 1", "Kod 2", "Kod 3", "Kod 4"],
+		"correct": 2,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/237.jpg"
+	},
+	{
+		"question": "W ramce zaprezentowano fragment opisu metody compile języka Java stosowanej przy pracy z wyrażeniami regularnymi. Który znak należy zastosować, aby znaleźć dopasowanie na końcu napisu?",
+		"answers": ["^", "|", "$", "."],
+		"correct": 2,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/238.jpg"
+	},
+	{
+		"question": "Do rozwiązywania problemów przybliżonych lub takich, których nie można opisać algorytmem dokładnym, np. przewidywanie pogody, rozpoznawanie wirusów komputerowych służą algorytmy",
+		"answers": ["liniowe", "iteracyjne", "heurystyczne", "rekurencyjne"],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "W ramce przedstawiono notatki testera dotyczące testów aplikacji. Który rodzaj testów ma zamiar wykonać tester?",
+		"answers": ["jednostkowe", "wydajnościowe", "interfejsu", "bezpieczeństwa"],
+		"correct": 1,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/240.jpg"
+	},
+	{
+		"question": "W przedstawionym fragmencie kodu znajduje się błąd logiczny. Polega on na",
+		"answers": [
+			"braku inicjalizacji zmiennej x, który sprawia, że zmienna nie ma wartości początkowej",
+			"błędnym zastosowaniem funkcji cout, który sprawia, że zmienna jest wczytywana w pętli",
+			"nieprawidłowym warunku pętli, który sprawia, że pętla nigdy się nie wykona",
+			"nieprawidłowym warunku pętli, który sprawia, że pętla jest nieskończona"
+		],
+		"correct": 3,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/241.jpg"
+	},
+	{
+		"question": "Wskaż kod poprawny składniowo dla formatu JSON, służącego do wymiany danych pomiędzy częściami backend i frontend aplikacji",
+		"answers": ["Kod 1", "Kod 2", "Kod 3", "Kod 4"],
+		"correct": 1,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/242.jpg"
+	},
+	{
+		"question": "W wyniku wykonywania kodu języka C++ została wyświetlona wartość 0 (zamiast 50). Jaki jest tego powód?",
+		"answers": [
+			"Działanie wewnątrz funkcji jest zapisane niepoprawnie.",
+			"Argument funkcji został przekazany przez wartość, a nie przez referencję.",
+			"Funkcja zwraca wartość, a nie powinna jej zwracać.",
+			"Zmienna x powinna być inicjowana wartością wynoszącą 1 a nie 0."
+		],
+		"correct": 1,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/243.jpg"
+	},
+	{
+		"question": "W języku C++ zakładając, że przedstawiona linia kodu się skompiluje i wykona, to do zmiennej liczba zostanie przypisana wartość",
+		"answers": [
+			"równa 1000",
+			"dowolna pseudolosowa z zakresu typu int",
+			"rzeczywista podzielna przez 1000",
+			"pseudolosowa nie większa niż 999"
+		],
+		"correct": 3,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/244.jpg"
+	},
+	{
+		"question": "Programista zapisał w pliku HTML przedstawioną linię kodu, aby",
+		"answers": [
+			"skorzystać z funkcji biblioteki jQuery, która wcześniej została pobrana i zapisana lokalnie.",
+			"umieścić kod JavaScript pomiędzy znacznikami <script></script>",
+			"pobrać z Internetu w momencie odsłony strony i zastosować bibliotekę jQuery.",
+			"zadeklarować własną funkcję JavaScript o nazwie min.js"
+		],
+		"correct": 0,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/245.jpg"
+	},
+	{
+		"question": "Algorytm sekwencyjnego wyszukiwania elementu z wartownikiem polega na założeniu, że",
+		"answers": [
+			"na końcu przeszukiwanego zbioru należy wstawić wartownika.",
+			"zbiór wejściowy musi być posortowany.",
+			"zbiór jest zawsze 100 elementowy.",
+			"szukany element musi powtórzyć się kilkakrotnie w zbiorze."
+		],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Analizując kod interfejsu graficznego zapisanego językiem XAML można stwierdzić, że",
+		"answers": [
+			"napis \"fotograf\" jest położony po prawej stronie obrazu",
+			"elementy: napis, obraz, przycisk Like, przycisk Share, napis są ułożone jeden pod drugim",
+			"przyciski są ułożone poziomo jeden obok drugiego",
+			"obraz jest po lewej stronie, a pozostałe elementy po prawej"
+		],
+		"correct": 2,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/246.jpg"
+	},
+	{
+		"question": "Jednym z zadań projektowania aplikacji jest funkcjonalność cofnięcia wykonywanych ostatnio czynności do 20 operacji wstecz (undo). Strukturą danych przeznaczoną do tego typu zadania, którą cechuje dostęp jedynie do ostatniego dodanego elementu jest",
+		"answers": ["kolejka", "drzewo", "tablica", "stos"],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "Dla podawanego fragmentu kodu Java zostanie wygenerowany wyjątek, gdy zmienna index przyjmie wartość",
+		"answers": ["5", "0", "1", "7"],
+		"correct": 3,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/249.jpg"
+	},
+	{
+		"question": "Wskaż odpowiedź, która wykorzystuje parafrazę jako technikę aktywnego słuchania, w sytuacji, gdy klient mówi: \"Interesuje mnie aplikacja, która działa szybko, nie zależnie od tego, czy korzysta z niej kilku czy tysiąc użytkowników\".",
+		"answers": [
+			"Dlaczego Pani poszukuje takiej aplikacji?",
+			"Ilu dokładnie użytkowników będzie z niej korzystać?",
+			"Wyczuwam niepewność w Pani głosie. Proszę pozwolić mi zadać kilka pytań.",
+			"Jeśli prawidłowo zrozumiałem, chodzi o aplikację, która dobrze się skaluje do obciążenia"
+		],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "Przedstawione listingi zawierają implementację funkcji oraz zdefiniowany jeden test automatyczny sprawdzający zachowanie funkcji w przypadku, gdy argumentem jest wartość ujemna. W miejscu kropek należy wstawić drugi test sprawdzający działanie funkcji, gdy argumentem jest wartość dodatnia. Który z kodów odpowiada temu testowi?",
+		"answers": ["A", "B", "C", "D"],
+		"correct": 2,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/251.jpg"
+	},
+	{
+		"question": "Które z wymienionych zadań, składających się na proces tworzenia prostej galerii zdjęć będącej aplikacją mobilną, jest zadaniem zespołowym?",
+		"answers": [
+			"Implementacja funkcji dodajZdjecie()",
+			"Utworzenie dokumentacji kodu aplikacji",
+			"Przygotowanie i skonfigurowanie repozytorium dla projektu",
+			"Utworzenie testu jednostkowego dla funkcji przegladajZdjecia()"
+		],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Na obrazie przedstawiono fragment emulacji iOS z prostą aplikacją. Górna część strony zachodzi na belkę ze stanem baterii. Który z zapisów należy zastosować w miejscu znaków zapytania, aby wprowadzić tylko marginesy górne wyłącznie dla platformy iOS?",
+		"answers": [
+			"x:TypeArguments=”Thickness”(0, 20, 0, 0)",
+			"x:TypeArguments=”Thickness” iOS=20",
+			"x:TypeArguments=\"Thickness\" iOS=\"0, 0, 0, 0\" Android=\"0, 20, 0, 0\" WinPhone=\"0, 0, 0, 0\"",
+			"x:TypeArguments=\"Thickness\" iOS=\"0, 20, 0, 0\" Android=”0, 0, 0, 0” WinPhone=\"0, 0, 0, 0\""
+		],
+		"correct": 3,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/253.jpg"
+	},
+	{
+		"question": "Prawidłową i ergonomiczną pozycję pracy przy komputerze zapewni krzesło, którego",
+		"answers": [
+			"podłokietniki są 20 cm niżej niż blat",
+			"podłokietniki są 30 cm wyżej niż blat",
+			"oparcie zapewnia lordozę w odcinku lędźwiowym",
+			"oparcie w odcinku szyi jest pochylone do przodu o 40 stopni"
+		],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Jaki typ służy do przechowywania wartości TRUE/FALSE w języku C++?",
+		"answers": ["bool", "decimal", "byte", "char"],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Natężenie dźwięku na stanowisku pracy w biurze nie może przekraczać",
+		"answers": ["50 dB", "45 dB", "40 dB", "55 dB"],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Mechanizm pozwalający programowi czytać informacje o samym sobie to",
+		"answers": ["asemblacja", "lustro", "instacjonowanie", "refleksja"],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "Jaki typ służy do przechowywania wartości całkowitych z zakresu 0 do 255 w języku C++?",
+		"answers": ["unsigned char", "char", "unsigned short", "short"],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Metoda ustawiająca prywatne pole to",
+		"answers": ["metoda abstrakcyjna", "getter", "setter", "metoda wirtualna"],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "W języku C# delegat jest to",
+		"answers": [
+			"specjalny typ do przechowywania typów prostych",
+			"specjalny typ do przechowywania referencji na funkcję",
+			"specjalny typ pełniący rolę wskaźnika do poruszania się po pliku",
+			"specjalny typ pełniący rolę iteratora po kolekcji"
+		],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Do testowania REST API wykorzystuje się program",
+		"answers": ["Postman", "ApiViewer", "Putty", "RestTeamViewer"],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "W języku C, aby wypisać odpowiednio string, znak, liczbę całkowitą ze znakiem oraz liczbę zmiennoprzecinkową za pomocą funkcji print(), należy posłużyć się ciągiem formatującym",
+		"answers": ["%s %c %d %f", "%c %s %u %x", "%f %c %s %u", "%d %u %f %c"],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Elementem języka C++, który pozwala definiować własne typy jest?",
+		"answers": ["typ wyliczeniowy enum", "klasa", "struktura", "wszystkie pozostałe"],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "Wartość wyrażenia !5 w języku C++ to",
+		"answers": ["1", "undefined", "false", "0xE"],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Przykładem algorytmu typu dziel i zwyciężaj jest?",
+		"answers": ["quick-sort", "algorytm kruskala", "algorytm Dijkstra", "insert-sort"],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Przedstawiając algorytm za pomocą bloków, blok start/stop narysujemy w kształcie?",
+		"answers": ["Równoległoboku.", "Elipsy.", "Trójkąta.", "Prostokąta."],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Algorytm można przedstawić za pomocą?",
+		"answers": ["Pseudokodem.", "Każdym z wymienionych sposobów.", "Schematem blokowym.", "Opisem słownym."],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Z ilu klas może dziedziczyć klasa w C#/Java/Python?",
+		"answers": ["1", "dowolnej ilości", "0", "2"],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Przekazywanie zależności do klasy poprzez konstruktor nazywane jest",
+		"answers": [
+			"wstrzykiwaniem zależności",
+			"żadnym z wymienionych",
+			"dziedziczeniem zależności",
+			"odwracaniem zależności"
+		],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Interfejs to konstrukcja znana np. z język C#. Jest ona podobna do",
+		"answers": ["klasy abstrakcyjnej", "zwykłej klasy", "struktury", "uni"],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Plik źródłowy języka C# ma rozszerzenie?",
+		"answers": [".sc", ".cc", ".cs", ".cp"],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Pojęcie tablicy postrzępionej w języku C#, oznacza:",
+		"answers": [
+			"każdą tablicę w języku C#, niezależnie od jej wymiaru",
+			"tablicę dwuwymiarową, gdzie każda podtablica jest równa",
+			"tablicę dwuwymiarową, gdzie każda podtablica ma nieparzystą ilość elementów",
+			"tablicę dwuwymiarową, gdzie każda podtablica jest innego rozmiaru"
+		],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "Które zdanie o funkcji skrótu nie jest prawdziwe?",
+		"answers": [
+			"\"hash\" uzyskany z funkcji skrótu jest odwracalny.",
+			"Wynik funkcji skrótu to tak zwany \"hash\".",
+			"Funkcja skrótu przypisuje dowolnie dużej wartości krótką wartość o stałym rozmiarze.",
+			"\"hash\" uzyskany z funkcji skrótu jest nieodwracalny."
+		],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Na obrazku klasa Repository jest dla klasy Server?",
+		"answers": ["Zależnością twardą.", "Żadne z wymienionych.", "Klasą pochodną.", "Zależnością miękką."],
+		"correct": 3,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/274.png"
+	},
+	{
+		"question": "Typem delegata w języku C# nie jest?",
+		"answers": ["Predicate", "Func", "Task", "Action"],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Jakiego przełącznika należy użyć z poleceniem \"git reset\", aby cofnięte zmiany wylądowały na \"stage\"?",
+		"answers": ["--medium", "--hard", "--mixed", "--soft"],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "Testy jednostkowe składają się z trzech głównych faz w kolejności",
+		"answers": ["assert/arrange/act", "assert/act/arrange", "act/assert/arrange", "arrange/act/assert"],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "Zasada mówiąca o tym by unikać powtórzeń w kodzie to",
+		"answers": ["YAGNI", "DRY", "SOLID", "KISS"],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Na ilustracji został przedstawiony Diagram UML:",
+		"answers": ["diagram klas", "diagram ERD", "diagram przypadków użycia", "diagram aktywności"],
+		"correct": 2,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/279.png"
+	},
+	{
+		"question": "W języku C# delegat \"Func<int, dobule, bool>\", zwraca:",
+		"answers": ["int", "bool", "double", "nic"],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Typem danych wykorzystywanym do precyzyjnego przechowywania liczb ułamkowych w języku C# jest:",
+		"answers": ["double", "dynamic", "decimal", "float"],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "\"Indexer\", to konstrukcja języka C#, która",
+		"answers": [
+			"jest odpowiednikiem przeciążonego operatora &",
+			"jest odpowiednikiem przeciążonego operatora []",
+			"jest odpowiednikiem przeciążonego operatora ()",
+			"jest odpowiednikiem przeciążonego operatora (type)"
+		],
+		"correct": 1,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/282.png"
+	},
+	{
+		"question": "Listę plików/katalogów, które są ignorowane przez system kontroli wersji git należy umieścić w pliku:",
+		"answers": [".gitsettings", ".configgit", ".ignoregit", ".gitignore"],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "TDD (Test Driven Development) to:",
+		"answers": [
+			"metodologia pisania oprogramowania, gdzie testy pisze się przed kodem testowanym",
+			"wzorzec projektowy",
+			"metodologia pisania oprogramowania, gdzie testy wykorzystuje się do dokumentowania kodu",
+			"wszystkie odpowiedzi są błędne"
+		],
+		"correct": 0,
+		"image": "https://www.praktycznyegzamin.pl/inf04/teoria/wszystko/inf04/284.png"
+	},
+	{
+		"question": "Skrót SPA oznacza:",
+		"answers": [
+			"Super-Pure Application",
+			"Super-Page Application",
+			"Simple-Page Application",
+			"Single-Page Application"
+		],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "Rozwinięciem skrótu ORM jest:",
+		"answers": [
+			"Object Relational Mapping",
+			"Object Relational Macro",
+			"Object Reconstruct Mapping",
+			"Object Relational Model"
+		],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Metodą protokołu HTTP/HTTPS odpowiedzialną za aktualizowanie danych jest",
+		"answers": ["POST", "PUT", "HEAD", "GET"],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "API typu REST wymienia dane w formacie zwanym",
+		"answers": ["JSON", "JWT", "XML", "HTML"],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Podatność stron internetowych polegająca na wstrzykiwaniu własnego kodu do strony to",
+		"answers": ["XSS", "Hijacking", "SQL Injection", "Data Poisoning"],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Kategorią zagrożeń na stanowisku pracy nie są",
+		"answers": ["zagrożenia chemiczne", "zagrożenia biologiczne", "zagrożenia fizyczne", "zagrożenia psychofizyczne"],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Czym jest automatyzacja procesu testowania?",
+		"answers": [
+			"Procesem integracji testów w środowisku programistycznym",
+			"Wykorzystaniem narzędzi i skryptów do przeprowadzania testów automatycznie bez ingerencji człowieka",
+			"Weryfikacją poprawności działania aplikacji na urządzeniach mobilnych",
+			"Kompilacją kodu w celu optymalizacji wydajności"
+		],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Który rodzaj testów służy do weryfikacji funkcji prototypu interfejsu?",
+		"answers": ["Testy wydajnościowe", "Testy interfejsu", "Testy zgodności", "Testy obciążeniowe"],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Czym charakteryzują się testy interfejsu?",
+		"answers": [
+			"Testy wydajnościowe",
+			"Sprawdzają poprawność działania elementów graficznych i interakcji użytkownika z aplikacją",
+			"Testują zgodność aplikacji z wymogami prawnymi",
+			"Optymalizują kod aplikacji"
+		],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Co powinno zostać uwzględnione w scenariuszu testowym aplikacji?",
+		"answers": [
+			"Szczegółowe instrukcje dotyczące implementacji kodu",
+			"Dokumentacja techniczna aplikacji",
+			"Plan wdrożenia aplikacji w środowisku produkcyjnym",
+			"Opis kroków testowych, oczekiwanych wyników i warunków wstępnych"
+		],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "Który rodzaj testów sprawdza użyteczność aplikacji z perspektywy użytkownika końcowego?",
+		"answers": ["Testy obciążeniowe", "Testy funkcjonalne", "Testy użyteczności", "Testy zgodności"],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Który z poniższych przykładów jest testem niefunkcjonalnym?",
+		"answers": [
+			"Testowanie wydajności aplikacji pod dużym obciążeniem",
+			"Sprawdzenie poprawności logowania użytkownika",
+			"Weryfikacja poprawności działania przycisku",
+			"Sprawdzenie obsługi formularza rejestracji"
+		],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Czym różnią się testy funkcjonalne od niefunkcjonalnych?",
+		"answers": [
+			"Testy funkcjonalne sprawdzają wydajność aplikacji, a niefunkcjonalne poprawność kodu",
+			"Testy funkcjonalne sprawdzają zgodność działania aplikacji z założeniami, a niefunkcjonalne testują aspekty wydajności, bezpieczeństwa i użyteczności",
+			"Testy funkcjonalne są przeprowadzane tylko przez użytkowników końcowych, a niefunkcjonalne przez programistów",
+			"Testy funkcjonalne skupiają się na interfejsie, a niefunkcjonalne na zapleczu aplikacji"
+		],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Do czego służy dokumentacja wdrożeniowa?",
+		"answers": [
+			"Do zarządzania bazą danych aplikacji",
+			"Do testowania wydajności aplikacji",
+			"Do tworzenia zadań w systemie kontroli wersji",
+			"Do opisania procesu instalacji i konfiguracji aplikacji w środowisku produkcyjnym"
+		],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "Które z poniższych nie jest elementem instrukcji użytkownika programu?",
+		"answers": [
+			"Opis procedur testowych i wyników przeprowadzonych testów",
+			"Plan wdrożenia aplikacji",
+			"Instrukcje dotyczące optymalizacji kodu",
+			"Dane techniczne serwera"
+		],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Co zawiera dokumentacja wdrożenia projektu?",
+		"answers": [
+			"Opis błędów znalezionych podczas testów",
+			"Informacje o etapach implementacji aplikacji w środowisku produkcyjnym",
+			"Plan marketingowy aplikacji",
+			"Instrukcję obsługi aplikacji dla użytkowników końcowych"
+		],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Co należy uwzględnić w instrukcji użytkownika aplikacji?",
+		"answers": [
+			"Opis instalacji, konfiguracji i obsługi programu",
+			"Opis struktur danych używanych w kodzie",
+			"Plan wdrożenia projektu",
+			"Opis narzędzi programistycznych użytych podczas tworzenia aplikacji"
+		],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Czym jest dokumentacja pomocy programu?",
+		"answers": [
+			"Dokumentem zawierającym szczegóły techniczne kodu źródłowego",
+			"Instrukcją wyjaśniającą, jak korzystać z funkcji programu",
+			"Zbiorem testów jednostkowych i wyników",
+			"Dokumentem zawierającym plany rozwoju aplikacji"
+		],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Który z poniższych elementów należy uwzględnić w dokumentacji kodu programu?",
+		"answers": [
+			"Szczegóły konfiguracji serwera",
+			"Lista błędów wykrytych podczas testów",
+			"Opis funkcji, klas i zmiennych w kodzie",
+			"Plan marketingowy aplikacji"
+		],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Do czego służą komentarze w kodzie źródłowym programu?",
+		"answers": [
+			"Do dokumentowania działania kodu i ułatwienia jego zrozumienia",
+			"Do uruchamiania kodu w trybie debugowania",
+			"Do definiowania zmiennych globalnych",
+			"Do optymalizacji wydajności kodu"
+		],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Który etap pozwala na poprawienie wydajności aplikacji przed jej publikacją?",
+		"answers": [
+			"Optymalizacja kodu",
+			"Testowanie jednostkowe",
+			"Tworzenie interfejsu graficznego",
+			"Dodawanie komentarzy do kodu"
+		],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Co należy zrobić po znalezieniu błędu w kodzie podczas testowania?",
+		"answers": [
+			"Zignorować błąd, jeśli aplikacja działa poprawnie",
+			"Poprawić błąd i ponownie przetestować aplikację",
+			"Zgłosić błąd do użytkownika końcowego",
+			"Usunąć moduł zawierający błąd"
+		],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Które narzędzie może być używane do automatycznego testowania aplikacji webowych?",
+		"answers": ["Postman", "Blender", "Selenium", "Visual Studio Code"],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Który z poniższych sposobów może służyć optymalizacji kodu źródłowego?",
+		"answers": [
+			"Usunięcie nieużywanych zmiennych i funkcji",
+			"Zwiększenie liczby instrukcji warunkowych",
+			"Użycie większej liczby komentarzy w kodzie",
+			"Zastąpienie zmiennych globalnych lokalnymi"
+		],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Co oznacza termin debugowanie w programowaniu?",
+		"answers": [
+			"Publikowanie aplikacji w środowisku produkcyjnym",
+			"Opracowywanie nowych funkcji aplikacji",
+			"Wyszukiwanie i usuwanie błędów w kodzie",
+			"Tworzenie dokumentacji kodu"
+		],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Który z poniższych etapów jest częścią testowania aplikacji?",
+		"answers": [
+			"Tworzenie bazy danych",
+			"Debugowanie kodu w celu znalezienia błędów",
+			"Tworzenie interfejsu graficznego",
+			"Kompilowanie aplikacji"
+		],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Czym jest walidacja kodu programu?",
+		"answers": [
+			"Procesem tworzenia dokumentacji kodu",
+			"Procesem publikowania aplikacji w sklepie",
+			"Procesem kompilowania kodu",
+			"Procesem sprawdzania poprawności i zgodności kodu z założeniami"
+		],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "Który z poniższych mechanizmów pozwala na ograniczenie dostępu do niektórych części aplikacji webowej?",
+		"answers": [
+			"Dynamiczne formularze",
+			"System logowania i kontroli dostępu",
+			"Statyczne pliki CSS",
+			"Mechanizm renderowania treści"
+		],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Jakie dane mogą być przechowywane w ciasteczkach przeglądarki?",
+		"answers": [
+			"Wrażliwe dane użytkownika, takie jak hasła",
+			"Preferencje użytkownika, takie jak język lub motyw witryny",
+			"Dane przechowywane w bazie danych",
+			"Kod źródłowy aplikacji webowej"
+		],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Który z poniższych elementów najlepiej opisuje funkcjonalność e-sklepu?",
+		"answers": [
+			"System zarządzania koszykiem i realizacją zamówień",
+			"Dostęp do bazy danych użytkownika",
+			"Obsługa serwera e-mail",
+			"Mechanizm renderowania grafiki 3D"
+		],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Która technologia jest używana do integracji aplikacji webowej z bazą danych?",
+		"answers": ["HTTP", "SQL", "CSS", "JavaScript"],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Który element jest niezbędny w dynamicznym formularzu logowania?",
+		"answers": [
+			"Plik graficzny",
+			"Nagłówek HTTP",
+			"Tabela w bazie danych",
+			"Pola tekstowe do wprowadzania danych użytkownika"
+		],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "Który framework wspiera tworzenie dynamicznych interfejsów użytkownika przy użyciu TypeScript?",
+		"answers": ["Angular", "ASP.NET Core", "jQuery", "Django"],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Co jest głównym celem stosowania frameworka Node.js w aplikacjach webowych?",
+		"answers": [
+			"Tworzenie aplikacji mobilnych",
+			"Testowanie API",
+			"Obsługa aplikacji serwerowych i przetwarzanie asynchroniczne",
+			"Projektowanie graficznego interfejsu użytkownika"
+		],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Który framework opiera się na tworzeniu komponentów w języku JavaScript?",
+		"answers": ["Node.js", "React.js", "Django", "ASP.NET Core"],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Który element środowiska IDE jest kluczowy dla pracy nad aplikacjami webowymi?",
+		"answers": [
+			"Narzędzie do projektowania grafiki",
+			"Emulator urządzeń mobilnych",
+			"Debugger, edytor kodu, integracja z systemem kontroli wersji",
+			"Zarządzanie bazami danych"
+		],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Które z poniższych narzędzi jest powszechnie używane do debugowania aplikacji webowych?",
+		"answers": ["Git", "Blender", "Postman", "DevTools"],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "Czym różni się środowisko RAD od tradycyjnego IDE w kontekście aplikacji webowych?",
+		"answers": [
+			"RAD skupia się wyłącznie na tworzeniu frontendu aplikacji",
+			"RAD pozwala na szybsze prototypowanie i rozwój aplikacji dzięki narzędziom wizualnym",
+			"RAD działa tylko w systemach Windows",
+			"RAD nie obsługuje żadnych języków backendowych"
+		],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Które z poniższych jest przykładem aplikacji mobilnej korzystającej z bazy danych?",
+		"answers": [
+			"Aplikacja przechowująca listę kontaktów użytkownika",
+			"Aplikacja pokazująca godzinę lokalną",
+			"Aplikacja do robienia zdjęć",
+			"Aplikacja kalkulator"
+		],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Co jest głównym celem przygotowania aplikacji do publikacji w sklepie mobilnym?",
+		"answers": [
+			"Optymalizacja kodu aplikacji pod kątem szybkości działania",
+			"Zmniejszenie rozmiaru aplikacji poniżej 20 MB",
+			"Dostosowanie aplikacji do wymagań platformy i przepisów sklepu",
+			"Umożliwienie korzystania z aplikacji tylko w trybie offline"
+		],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Który język programowania jest powszechnie używany do programowania interfejsów użytkownika za pomocą XAML?",
+		"answers": ["C++", "Java", "C#", "Python"],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "W jaki sposób można przechowywać dane użytkownika w aplikacji mobilnej na system Android?",
+		"answers": [
+			"Za pomocą plików SharedPreferences",
+			"W rejestrze systemu",
+			"Wyłącznie w zewnętrznych bazach danych",
+			"Tylko w pamięci RAM"
+		],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Który z poniższych komponentów UI aplikacji mobilnych odpowiada za nawigację między ekranami?",
+		"answers": ["Przycisk", "ListView", "Navigation Drawer", "Pasek narzędziowy"],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Co należy zrobić, aby obsłużyć zdarzenie kliknięcia przycisku w aplikacji desktopowej?",
+		"answers": [
+			"Zdefiniować metodę w systemie menu",
+			"Podłączyć zdarzenie kliknięcia do odpowiedniej metody w kodzie",
+			"Stworzyć nowy dialog modalny",
+			"Zmodyfikować plik XAML"
+		],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Który z poniższych komponentów może być częścią systemu menu aplikacji desktopowej?",
+		"answers": ["CheckBox", "MenuItem", "Canvas", "ScrollBar"],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Do czego służy język XAML w programowaniu aplikacji desktopowych?",
+		"answers": [
+			"Do zarządzania bazami danych",
+			"Do obsługi zdarzeń klawiatury",
+			"Do optymalizacji działania aplikacji",
+			"Do projektowania graficznego interfejsu użytkownika"
+		],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "Czym różni się dialog modalny od niemodalnego?",
+		"answers": [
+			"Dialog modalny wymaga zamknięcia, aby wrócić do głównego okna aplikacji, dialog niemodalny tego nie wymaga",
+			"Dialog modalny działa w tle, a dialog niemodalny jest zawsze na pierwszym planie",
+			"Dialog modalny pozwala na interakcję z innymi oknami aplikacji, dialog niemodalny nie",
+			"Dialog modalny jest ograniczony tylko do aplikacji konsolowych"
+		],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Który z poniższych elementów interfejsu użytkownika jest typowy dla aplikacji desktopowej?",
+		"answers": ["Przycisk", "Strona HTML", "REST API", "Routing"],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Które z poniższych stwierdzeń najlepiej opisuje WPF?",
+		"answers": [
+			"Framework służący do tworzenia aplikacji webowych",
+			"Framework służący do tworzenia aplikacji desktopowych w środowisku Windows",
+			"Biblioteka do przetwarzania danych w Pythonie",
+			"Framework umożliwiający obsługę urządzeń IoT"
+		],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Czym jest framework w programowaniu?",
+		"answers": [
+			"System operacyjny służący do uruchamiania aplikacji",
+			"Moduł do zarządzania bazami danych",
+			"Zbiór gotowych bibliotek, narzędzi i reguł wspierających tworzenie aplikacji",
+			"Edytor graficzny do projektowania interfejsów użytkownika"
+		],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Która z poniższych kart graficznych zapewnia większą wydajność w grach komputerowych?",
+		"answers": [
+			"Intel UHD Graphics 630 – zintegrowana",
+			"AMD Radeon R7 240 – 2GB GDDR5, 64-bit",
+			"AMD Radeon RX 580 – 8GB GDDR5, 256-bit",
+			"NVIDIA GeForce GTX 1050 Ti – 4GB GDDR5, 128-bit"
+		],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Który z poniższych parametrów opisuje szybkość procesora?",
+		"answers": ["Pojemność pamięci podręcznej", "Typ złącza", "Częstotliwość taktowania", "Ilość rdzeni"],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Który z poniższych dysków zapewnia najszybszy odczyt danych?",
+		"answers": [
+			"SSD SATA III, prędkość odczytu do 550 MB/s",
+			"HDD 5400 RPM, SATA II, 32 MB Cache",
+			"HDD 7200 RPM, SATA III, 64 MB Cache",
+			"SSD NVMe PCIe 3.0, prędkość odczytu do 3500 MB/s"
+		],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "Który z poniższych parametrów dysku twardego ma największy wpływ na jego szybkość?",
+		"answers": [
+			"Prędkość obrotowa talerzy (RPM)",
+			"Pojemność dysku",
+			"Rodzaj złącza (SATA/PCIe)",
+			"Ilość pamięci podręcznej (Cache)"
+		],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Ile kilobajtów (KB) mieści się w 1 megabajcie (MB)?",
+		"answers": ["10", "100", "1000", "1024"],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "1 terabajt (TB) to ile gigabajtów (GB)?",
+		"answers": ["1000", "1024", "2048", "512"],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Jakie urządzenie techniki komputerowej najlepiej nadaje się do projektowania graficznego w programach typu CAD?",
+		"answers": [
+			"Serwer z dużą ilością pamięci RAM",
+			"Laptop z zintegrowaną kartą graficzną",
+			"Komputer stacjonarny z kartą graficzną NVIDIA Quadro",
+			"Laptop z ekranem dotykowym"
+		],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Który rodzaj pamięci RAM należy wybrać do wydajnego komputera gamingowego?",
+		"answers": ["DDR4", "DDR5", "DDR3", "LPDDR4"],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Który z poniższych etapów przetwarzania rozkazów przez procesor następuje jako pierwszy?",
+		"answers": [
+			"Pobranie rozkazu z pamięci (Fetch)",
+			"Zapis wyników do pamięci (Write Back)",
+			"Wykonanie instrukcji (Execution)",
+			"Dekodowanie rozkazu (Decode)"
+		],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Co określa zestaw instrukcji (ISA) procesora?",
+		"answers": [
+			"Instrukcje, które procesor jest w stanie wykonać",
+			"Sposób zarządzania pamięcią podręczną",
+			"Schemat połączeń między procesorem, a innymi komponentami",
+			"Rodzaje danych przechowywanych w pamięci"
+		],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Jakie zadanie pełni pamięć operacyjna (RAM) w systemie komputerowym?",
+		"answers": [
+			"Stałe przechowywanie systemu operacyjnego",
+			"Zapewnienie kopii zapasowej danych użytkownika",
+			"Tymczasowe przechowywanie danych i instrukcji dla procesora",
+			"Zarządzanie przepływem danych między urządzeniami wejścia/wyjścia"
+		],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Który element systemu komputerowego odpowiada za przesyłanie danych między procesorem a pamięcią RAM?",
+		"answers": ["Karta graficzna", "Kontroler DMA", "Zasilacz", "Mostek północny (Northbridge)"],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "Jak procesor komunikuje się z pamięcią podręczną (cache)?",
+		"answers": [
+			"Wykorzystując jedynie pamięć RAM",
+			"Poprzez system przerwań",
+			"Bezpośrednio, z pominięciem mostków systemowych",
+			"Za pomocą linii danych w magistrali systemowej"
+		],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "Który z poniższych opisów najlepiej definiuje system informatyczny?",
+		"answers": [
+			"Oprogramowanie wspierające wyłącznie zarządzanie danymi osobowymi",
+			"Zespół urządzeń technicznych wykorzystywanych do pracy biurowej",
+			"Zespół ludzi, procedur, oprogramowania i sprzętu służący do przetwarzania danych",
+			"Sieć komputerowa umożliwiająca komunikację między użytkownikami"
+		],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Który z poniższych przykładów jest systemem informacji przetwarzanym przez system informatyczny?",
+		"answers": [
+			"System PESEL",
+			"System monitorowania temperatury serwerów",
+			"System sterowania światłami drogowymi",
+			"System wentylacji w biurowcach"
+		],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Gdzie są przechowywane dane w przypadku korzystania z chmury obliczeniowej?",
+		"answers": [
+			"Na dyskach optycznych użytkownika",
+			"Na dyskach optycznych użytkownika",
+			"Na serwerze lokalnym użytkownika",
+			"Na zdalnych serwerach dostawcy usług"
+		],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "Jaki system informatyczny powinien zostać wykorzystany do obsługi sprzedaży w sklepie internetowym?",
+		"answers": ["System ERP", "System CMS", "System CRM", "System e-commerce"],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "Co jest główną funkcją portali społecznościowych?",
+		"answers": [
+			"Tworzenie kopii zapasowych danych",
+			"Udostępnianie treści i komunikacja między użytkownikami",
+			"Zarządzanie sprzedażą produktów i usług",
+			"Analiza wyników biznesowych"
+		],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Która z poniższych zasad jest kluczowa dla bezpiecznego korzystania z portali społecznościowych?",
+		"answers": [
+			"Udostępnianie jak największej ilości danych osobowych",
+			"Unikanie ustawiania silnych haseł do konta",
+			"Zgłaszanie postów, które nie są zgodne z regulaminem",
+			"Regularne sprawdzanie ustawień prywatności"
+		],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "Który z poniższych przykładów jest zastosowaniem systemu informatycznego w działalności biznesowej?",
+		"answers": ["System nawigacji GPS", "System sterowania ruchem miejskim", "E-sklep", "System wentylacji"],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Które z poniższych rozwiązań ułatwia korzystanie z serwisów internetowych osobom niewidomym?",
+		"answers": [
+			"Dodanie czytnika ekranu (screen reader)",
+			"Dostosowanie rozdzielczości ekranu",
+			"Zmniejszenie liczby grafik na stronie",
+			"Zapewnienie możliwości zmiany czcionki"
+		],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Co oznacza poziom dostępności AAA w WCAG 2.0?",
+		"answers": [
+			"Dostosowanie wyłącznie do użytkowników mobilnych",
+			"Najwyższy poziom dostępności",
+			"Średni poziom dostępności",
+			"Minimalny poziom dostępności"
+		],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Która z poniższych topologii sieci charakteryzuje się połączeniem wszystkich urządzeń jednym kablem?",
+		"answers": ["Topologia siatki", "Topologia magistrali", "Topologia pierścienia", "Topologia gwiazdy"],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Który protokół modelu TCP/IP jest odpowiedzialny za niezawodne przesyłanie danych?",
+		"answers": ["TCP", "UDP", "HTTP", "IP"],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Ile warstw ma model TCP/IP?",
+		"answers": ["4", "7", "2", "5"],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Która z poniższych cech dotyczy sieci bezprzewodowej?",
+		"answers": [
+			"Wymaga użycia kabli do połączenia urządzeń",
+			"Jest bardziej podatna na zakłócenia w transmisji danych",
+			"Nie działa w miejscach z dużą liczbą urządzeń",
+			"Nie wymaga zabezpieczeń, ponieważ jest automatycznie chroniona"
+		],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Jaką przepustowość ma sieć przesyłająca 500 MB danych w 10 sekund?",
+		"answers": ["40 Mbps", "500 Mbps", "50 Mbps", "400 Mbps"],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "Jak nazywa się proces przesyłania danych z komputera lokalnego na serwer?",
+		"answers": ["Wysyłanie danych", "Przesyłanie danych", "Streaming", "Pobieranie danych"],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Które z poniższych określeń najlepiej opisuje oprogramowanie typu ransomware?",
+		"answers": [
+			"Oprogramowanie używane do przeprowadzania ataków DDoS",
+			"Złośliwe aplikacje wyświetlające reklamy",
+			"Programy zbierające dane osobowe bez zgody użytkownika",
+			"Oprogramowanie blokujące dostęp do danych w celu wymuszenia okupu"
+		],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "Co to jest własność intelektualna?",
+		"answers": [
+			"Lista plików przechowywanych w chmurze",
+			"Zestaw ustaw o ochronie prywatności",
+			"Koncepcja praw chroniących twórczość i wynalazki",
+			"Zbiór danych osobowych"
+		],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Która z poniższych sytuacji narusza prawa autorskie?",
+		"answers": [
+			"Korzystanie z programu typu open-source zgodnie z licencją",
+			"Publikowanie filmu chronionego prawami autorskimi bez zgody właściciela",
+			"Zakup licencji na oprogramowanie",
+			"Tworzenie kopii zapasowej posiadanego legalnie programu"
+		],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Jakie są podstawowe etapy tworzenia aplikacji?",
+		"answers": [
+			"Analiza wymagań, projektowanie, implementacja, testowanie, wdrożenie",
+			"Projektowanie, wdrożenie, utrzymanie, dokumentacja",
+			"Implementacja, testowanie, wdrożenie, analiza potrzeb",
+			"Analiza wymagań, testowanie, projektowanie, wdrożenie"
+		],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Jakie jest główne zadanie serwera aplikacyjnego?",
+		"answers": ["Przechowywanie danych", "Hostowanie stron HTML", "Obsługa logiki aplikacji", "Renderowanie grafiki"],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Wzorzec MVC dzieli aplikację na:",
+		"answers": [
+			"Moduł, widok, kontroler",
+			"Model, widok, kontroler",
+			"Model, wersję, konfigurację",
+			"Moduł, wersję, komponent"
+		],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Który algorytm służy do wyszukiwania najkrótszej drogi w grafie?",
+		"answers": ["Algorytm Dijkstry", "Algorytm Kruskala", "Algorytm Floyda-Warshalla", "Algorytm Prim"],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Jakiego typu dane przechowuje baza danych NoSQL?",
+		"answers": [
+			"Relacyjne dane tabelaryczne",
+			"Dane hierarchiczne i nienormalizowane",
+			"Wyłącznie dane tekstowe",
+			"Dane tylko w formacie JSON"
+		],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "W programowaniu obiektowym, co to jest enkapsulacja?",
+		"answers": [
+			"Dzielenie aplikacji na moduły",
+			"Ukrywanie szczegółów implementacji",
+			"Dziedziczenie cech między klasami",
+			"Definiowanie interfejsów"
+		],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Jakie są główne zasady WCAG 2.0?",
+		"answers": [
+			"Elastyczna, prosta, przejrzysta, trwała",
+			"Postępowa, responsywna, efektywna",
+			"Percepcyjna, operacyjna, zrozumiała, solidna",
+			"Dostosowana, szybka, mobilna, dostępna"
+		],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Która cecha wyróżnia sieć synchroniczną?",
+		"answers": [
+			"Nie wymaga synchronizacji zegarów",
+			"Transmisja danych odbywa się w ustalonych odstępach czasu",
+			"Przesyłanie danych odbywa się w sposób nieciągły",
+			"Zapewnia większą elastyczność w przesyłaniu danych"
+		],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Która zasada poprawia bezpieczeństwo korzystania z sieci?",
+		"answers": [
+			"Unikanie aktualizacji systemu operacyjnego",
+			"Pobieranie plików z niezaufanych źródeł",
+			"Używanie silnych, unikalnych haseł",
+			"Udostępnianie haseł wśród znajomych"
+		],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Która cecha wyróżnia sieć asynchroniczną?",
+		"answers": [
+			"Dane są przesyłane w sposób nieciągły, bez synchronizacji zegarów",
+			"Wymaga synchronizacji zegarów",
+			"Jest bardziej niezawodna niż sieć synchroniczna",
+			"Dane są przesyłane tylko w ustalonych ramach czasowych"
+		],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Które narzędzie jest przykładem komunikatora audio-video?",
+		"answers": ["Notion", "Slack", "Google Drive", "Microsoft Teams"],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "Która z poniższych zasad jest częścią netykiety?",
+		"answers": [
+			"Używanie nieformalnego języka w każdej rozmowie",
+			"Publikowanie treści bez zgody autorów",
+			"Unikanie pisania wielkimi literami w wiadomościach",
+			"Ignorowanie wiadomości od innych użytkowników"
+		],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Jaka jest dziesiętna wartość liczby binarnej 1010?",
+		"answers": ["12", "14", "8", "10"],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "Jaki jest zapis liczby dziesiętnej 255 w systemie szesnastkowym?",
+		"answers": ["EF", "100", "FE", "FF"],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "Jaki jest kod uzupełnieniowy do dwóch dla liczby -5 w zapisie binarnym na 8 bitach?",
+		"answers": ["11111101", "11111011", "10000101", "00000101"],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Co charakteryzuje kod uzupełnieniowy do dwóch?",
+		"answers": [
+			"Umożliwia reprezentację liczb ujemnych w systemie binarnym",
+			"Przedstawia liczbę w postaci odwrotnej binarnej",
+			"Służy do konwersji liczb binarnych na liczby dziesiętne",
+			"Umożliwia zamianę systemu binarnego na szesnastkowy"
+		],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Jaki jest wynik dodawania binarnego liczb 1011 + 110?",
+		"answers": ["11001", "10101", "11101", "10001"],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "Jaki będzie wynik logicznej operacji AND dla liczb binarnych 1010 i 1100?",
+		"answers": ["1110", "1000", "1100", "1010"],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Które narzędzie najlepiej nadaje się do konwersji liczby szesnastkowej na binarną?",
+		"answers": ["Kalkulator programisty", "Arkusz kalkulacyjny", "Przeglądarka internetowa", "Edytor tekstowy"],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Które z poniższych narzędzi umożliwia jednoczesną pracę z systemami BIN, DEC i HEX?",
+		"answers": ["Przeglądarka grafów", "Kalkulator systemowy", "GIMP", "MS Word"],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Jaki rodzaj złośliwego oprogramowania działa w tle, przechwytując informacje o wpisywanych hasłach?",
+		"answers": ["Keylogger", "Adware", "Trojan", "Spyware"],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Co jest głównym celem ataku phishingowego?",
+		"answers": [
+			"Wykradanie haseł z pamięci operacyjnej urządzenia",
+			"Przejęcie danych osobowych poprzez fałszywe strony lub wiadomości",
+			"Zakłócenie działania sieci poprzez nadmiar zapytań",
+			"Blokowanie dostępu do usług online"
+		],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Który atak hakerski polega na zasypywaniu serwera dużą liczbą zapytań, co powoduje jego przeciążenie?",
+		"answers": ["Phishing", "SQL Injection", "Man-in-the-Middle", "DDoS"],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "Który z poniższych środków najlepiej zabezpiecza komputer przed wirusami?",
+		"answers": [
+			"Regularne tworzenie kopii zapasowych",
+			"Aktualny program antywirusowy",
+			"Unikanie korzystania z publicznych sieci Wi-Fi",
+			"Używanie silnych haseł"
+		],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Co jest głównym celem firewalla w systemie komputerowym?",
+		"answers": [
+			"Ochrona danych na poziomie aplikacji internetowych",
+			"Szyfrowanie przesyłanych danych",
+			"Zapobieganie wyciekom danych na skutek błędów systemowych",
+			"Zarządzanie ruchem sieciowym i blokowanie nieautoryzowanego dostępu"
+		],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "Które z poniższych zachowań jest zagrożeniem dla sfery emocjonalnej człowieka w cyberprzestrzeni?",
+		"answers": [
+			"Przesyłanie niezaszyfrowanych plików",
+			"Cyberstalking",
+			"Nadmierne korzystanie z mediów społecznościowych",
+			"Zła postawa podczas pracy przy komputerze"
+		],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Które zagrożenie związane z korzystaniem z cyberprzestrzeni dotyczy zdrowia fizycznego?",
+		"answers": [
+			"Depresja związana z cyberprzemocą",
+			"Uzależnienie od gier komputerowych",
+			"Rozprzestrzenianie fałszywych informacji",
+			"Problemy z kręgosłupem spowodowane długim siedzeniem"
+		],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "Który z poniższych sposobów pomaga przeciwdziałać uzależnieniu od Internetu?",
+		"answers": [
+			"Zwiększenie liczby godzin spędzanych w mediach społecznościowych",
+			"Wprowadzenie regularnych przerw od korzystania z urządzeń cyfrowych",
+			"Korzystanie z komputera tylko w nocy",
+			"Zainstalowanie większej liczby aplikacji rozrywkowych"
+		],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Jak można zapobiec problemom społecznym wynikającym z nadmiernego korzystania z Internetu?",
+		"answers": [
+			"Zwiększać ilość czasu spędzanego przed ekranem",
+			"Utrzymywać równowagę między relacjami online i offline",
+			"Unikać kontaktu z ludźmi w rzeczywistości",
+			"Wycofać się całkowicie z życia wirtualnego"
+		],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Co należy zrobić, aby bezpiecznie przechowywać dane na komputerze?",
+		"answers": [
+			"Udostępniać hasła do plików współpracownikom",
+			"Nie korzystać z kopii zapasowych",
+			"Przechowywać dane na niezaszyfrowanych urządzeniach przenośnych",
+			"Regularnie aktualizować oprogramowanie i tworzyć kopie zapasowe"
+		],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "Które z poniższych narzędzi najlepiej zabezpiecza dane na urządzeniu przenośnym?",
+		"answers": [
+			"Hasło ustawione na urządzeniu",
+			"Zainstalowanie aplikacji rozrywkowych",
+			"Szyfrowanie danych na urządzeniu",
+			"Nieaktualne oprogramowanie"
+		],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Jakie działanie sprzyja ochronie cyfrowego wizerunku w Internecie?",
+		"answers": [
+			"Sprawdzanie ustawień prywatności na portalach społecznościowych",
+			"Udostępnianie swoich danych logowania znajomym",
+			"Publikowanie wszystkich informacji o swoim życiu prywatnym",
+			"Niezweryfikowanie źródeł publikowanych treści"
+		],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Które z poniższych działań może narazić cyfrową tożsamość na niebezpieczeństwo?",
+		"answers": [
+			"Włączanie uwierzytelniania dwuskładnikowego",
+			"Ustawianie unikalnych i silnych haseł",
+			"Klikanie w podejrzane linki w wiadomościach e-mail",
+			"Regularne zmienianie haseł do kont"
+		],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Jak można ograniczyć ilość danych zbieranych przez aplikacje mobilne?",
+		"answers": [
+			"Sprawdzać i dostosowywać uprawnienia aplikacji w ustawieniach",
+			"Udostępniać aplikacjom wszystkie wymagane dane",
+			"Nie wyłączać dostępu aplikacji do lokalizacji i kontaktów",
+			"Korzystać z aplikacji bez weryfikowania ich pochodzenia"
+		],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Co jest podstawowym celem ochrony danych osobowych?",
+		"answers": [
+			"Zapewnienie anonimowości użytkownikom Internetu",
+			"Publikowanie danych osobowych w celach marketingowych",
+			"Ochrona danych osobowych przed nieuprawnionym dostępem i wykorzystaniem",
+			"Utrudnienie pracy organom ścigania"
+		],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Który z poniższych aktów prawnych dotyczy ochrony danych osobowych w Unii Europejskiej?",
+		"answers": ["GDPR (RODO)", "Open Source Initiative", "DMCA", "Creative Commons"],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Co to jest własność intelektualna?",
+		"answers": [
+			"Zestaw ustaw o ochronie prywatności",
+			"Lista plików przechowywanych w chmurze",
+			"Koncepcja praw chroniących twórczość i wynalazki",
+			"Zbiór danych osobowych"
+		],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Który z poniższych typów danych jest przykładem typu stałoprzecinkowego?",
+		"answers": ["decimal", "int", "double", "float"],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Jaka jest główna różnica między typami stałoprzecinkowymi a zmiennoprzecinkowymi?",
+		"answers": [
+			"Stałoprzecinkowe obsługują liczby ujemne, a zmiennoprzecinkowe tylko dodatnie",
+			"Stałoprzecinkowe wymagają więcej pamięci niż zmiennoprzecinkowe",
+			"Stałoprzecinkowe przechowują liczby całkowite, zmiennoprzecinkowe przechowują liczby z częściami dziesiętnymi",
+			"Zmiennoprzecinkowe przechowują tylko liczby ujemne"
+		],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Czym różni się typ łańcuchowy od znakowego?",
+		"answers": [
+			"Typ znakowy przechowuje pojedyncze znaki, a łańcuchowy ciągi znaków",
+			"Typ łańcuchowy przechowuje pojedyncze znaki, a znakowy długie ciągi znaków",
+			"Typ łańcuchowy obsługuje liczby całkowite, a znakowy liczby zmiennoprzecinkowe",
+			"Typ znakowy przechowuje dane logiczne, a łańcuchowy tekst"
+		],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Która instrukcja poprawnie deklaruje zmienną typu łańcuchowego w języku C++?",
+		"answers": ["float name = \"Jan\"", "string name = \"Jan\"", "int name = \"Jan\"", "bool name = \"Jan\""],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Jaką wartość przechowuje tablica jednowymiarowa?",
+		"answers": [
+			"Wartość logiczną true lub false",
+			"Wiele wartości pod różnymi indeksami",
+			"Wiele wartości pod jednym indeksem",
+			"Tylko jedną wartość"
+		],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Które stwierdzenie najlepiej opisuje tablicę asocjacyjną?",
+		"answers": [
+			"Tablica, która zmienia rozmiar w czasie wykonania programu",
+			"Tablica, która przechowuje tylko dane tekstowe",
+			"Tablica przechowująca wartości dostępne tylko za pomocą indeksów numerycznych",
+			"Tablica przechowująca dane w postaci par klucz-wartość"
+		],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "Jakiej funkcji w C++ można użyć do dynamicznego alokowania pamięci dla tablicy?",
+		"answers": ["delete[]", "free()", "malloc()", "sizeof()"],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Które operacje na plikach są podstawowe?",
+		"answers": [
+			"Otwieranie, zapisywanie, odczytywanie, zamykanie",
+			"Zmiana rozszerzenia plików w trakcie działania programu",
+			"Tylko otwieranie i zamykanie plików",
+			"Usuwanie i tworzenie nowych plików"
+		],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Do czego służy iterator w kolekcjach?",
+		"answers": [
+			"Do usuwania elementów z kolekcji",
+			"Do zmiany typu kolekcji w trakcie działania programu",
+			"Do przechodzenia przez elementy kolekcji",
+			"Do tworzenia kopii kolekcji"
+		],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "W którym przypadku kolekcja typu lista będzie bardziej efektywna niż tablica?",
+		"answers": [
+			"Kiedy chcemy uzyskać dostęp do elementów za pomocą indeksu",
+			"Kiedy liczba elementów w kolekcji jest stała",
+			"Kiedy liczba elementów w kolekcji dynamicznie się zmienia",
+			"Kiedy znamy dokładny rozmiar kolekcji przed kompilacją"
+		],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Dlaczego warto używać kolekcji typu mapa (np. HashMap w Javie) przy projektowaniu zestawów danych?",
+		"answers": [
+			"Bo umożliwiają sortowanie danych bez dodatkowych operacji",
+			"Ze względu na szybki dostęp do elementów za pomocą klucza",
+			"Bo kolekcje typu mapa zajmują mniej pamięci niż tablice",
+			"Bo nie wymagają znajomości rozmiaru danych przed kompilacją"
+		],
+		"correct": 1,
+		"image": null
+	},
+	{
+		"question": "Co jest zaletą wykorzystania pseudokodu podczas projektowania algorytmu?",
+		"answers": [
+			"Zrozumiałość dla osób niezaznajomionych z programowaniem",
+			"Łatwość w modyfikacji kodu maszynowego",
+			"Tworzenie dynamicznych struktur danych",
+			"Możliwość szybkiego wykonania algorytmu w dowolnym języku"
+		],
+		"correct": 0,
+		"image": null
+	},
+	{
+		"question": "Jakie podejście najlepiej zastosować podczas projektowania aplikacji, która ma działać na różnych platformach?",
+		"answers": [
+			"Skupienie się wyłącznie na wyglądzie aplikacji",
+			"Wyłącznie dostosowanie aplikacji do systemu Windows",
+			"Zastosowanie technik responsywnego projektowania interfejsu",
+			"Tworzenie dedykowanego kody dla każdej platformy"
+		],
+		"correct": 2,
+		"image": null
+	},
+	{
+		"question": "Co należy wziąć pod uwagę przy projektowaniu struktury danych dla aplikacji?",
+		"answers": [
+			"Wyłącznie wymagania sprzętowe",
+			"Brak związku między strukturą danych a wydajnością aplikacji",
+			"Wyłącznie typ języka programowania",
+			"Złożoność przetwarzania danych i ich optymalną organizację"
+		],
+		"correct": 3,
+		"image": null
+	},
+	{
+		"question": "Czym charakteryzuje się biblioteka statyczna w porównaniu do dynamicznej?",
+		"answers": [
+			"Może być modyfikowana w trakcie działania programu",
+			"Jest ładowana do pamięci podczas działania programu",
+			"Jest dołączana do pliku wykonywalnego podczas kompilacji",
+			"Nie wymaga obecności pliku wykonywalnego"
+		],
+		"correct": 2,
+		"image": null
+	}
+]
